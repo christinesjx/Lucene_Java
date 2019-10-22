@@ -1,0 +1,7 @@
+activity,unknown,Thu Oct 20 00:00:00 EDT 2016,unknown,0:00
+activity,walking,Thu Oct 20 13:43:01 EDT 2016,walking,14:00
+activity,unknown,Thu Oct 20 13:55:02 EDT 2016,unknown,14:00
+activity,walking,Thu Oct 20 16:07:34 EDT 2016,walking,16:00
+activity,unknown,Thu Oct 20 16:21:01 EDT 2016,unknown,16:00
+activity,walking,Thu Oct 20 20:20:00 EDT 2016,walking,20:00
+activity,unknown,Thu Oct 20 20:21:00 EDT 2016,unknown,20:00

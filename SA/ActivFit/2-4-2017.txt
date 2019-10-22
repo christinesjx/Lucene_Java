@@ -1,0 +1,9 @@
+activity,unknown,Sat Feb 04 00:00:00 EST 2017,unknown,0:00
+activity,walking,Sat Feb 04 12:21:17 EST 2017,walking,12:00
+activity,unknown,Sat Feb 04 12:22:33 EST 2017,unknown,12:00
+activity,walking,Sat Feb 04 13:43:20 EST 2017,walking,14:00
+activity,unknown,Sat Feb 04 13:45:30 EST 2017,unknown,14:00
+activity,walking,Sat Feb 04 14:32:52 EST 2017,walking,15:00
+activity,unknown,Sat Feb 04 14:36:23 EST 2017,unknown,15:00
+activity,walking,Sat Feb 04 16:51:55 EST 2017,walking,17:00
+activity,unknown,Sat Feb 04 16:53:00 EST 2017,unknown,17:00

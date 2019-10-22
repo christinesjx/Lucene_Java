@@ -1,0 +1,8 @@
+activity,unknown,Wed Apr 12 00:00:00 EDT 2017,unknown,0:00
+activity,walking,Wed Apr 12 12:49:14 EDT 2017,walking,13:00
+activity,unknown,Wed Apr 12 12:50:48 EDT 2017,unknown,13:00
+activity,walking,Wed Apr 12 19:44:32 EDT 2017,walking,20:00
+activity,unknown,Wed Apr 12 19:48:21 EDT 2017,unknown,20:00
+activity,walking,Wed Apr 12 20:25:29 EDT 2017,walking,20:00
+activity,walking,Wed Apr 12 20:29:53 EDT 2017,walking,20:00
+activity,unknown,Wed Apr 12 20:51:02 EDT 2017,unknown,21:00

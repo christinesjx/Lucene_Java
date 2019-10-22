@@ -1,0 +1,15 @@
+{"sensor_name":"Activity","timestamp":"Wed Feb 15 23:58:11 EST 2017","time_stamp":"Wed Feb 15 23:58:11 EST 2017","sensor_data":{"step_counts":39,"step_delta":39}}
+{"sensor_name":"Activity","timestamp":"Wed Feb 15 23:58:11 EST 2017","time_stamp":"Wed Feb 15 23:58:11 EST 2017","sensor_data":{"step_counts":63,"step_delta":24}}
+{"sensor_name":"Activity","timestamp":"Wed Feb 15 23:58:11 EST 2017","time_stamp":"Wed Feb 15 23:58:11 EST 2017","sensor_data":{"step_counts":101,"step_delta":38}}
+{"sensor_name":"Activity","timestamp":"Wed Feb 15 23:58:11 EST 2017","time_stamp":"Wed Feb 15 23:58:11 EST 2017","sensor_data":{"step_counts":146,"step_delta":45}}
+{"sensor_name":"Activity","timestamp":"Wed Feb 15 23:58:11 EST 2017","time_stamp":"Wed Feb 15 23:58:11 EST 2017","sensor_data":{"step_counts":163,"step_delta":17}}
+{"sensor_name":"Activity","timestamp":"Wed Feb 15 23:58:11 EST 2017","time_stamp":"Wed Feb 15 23:58:11 EST 2017","sensor_data":{"step_counts":176,"step_delta":13}}
+{"sensor_name":"Activity","timestamp":"Wed Feb 15 23:58:11 EST 2017","time_stamp":"Wed Feb 15 23:58:11 EST 2017","sensor_data":{"step_counts":178,"step_delta":2}}
+{"sensor_name":"Activity","timestamp":"Wed Feb 15 23:58:11 EST 2017","time_stamp":"Wed Feb 15 23:58:11 EST 2017","sensor_data":{"step_counts":224,"step_delta":46}}
+{"sensor_name":"Activity","timestamp":"Wed Feb 15 23:58:11 EST 2017","time_stamp":"Wed Feb 15 23:58:11 EST 2017","sensor_data":{"step_counts":262,"step_delta":38}}
+{"sensor_name":"Activity","timestamp":"Wed Feb 15 23:58:11 EST 2017","time_stamp":"Wed Feb 15 23:58:11 EST 2017","sensor_data":{"step_counts":281,"step_delta":19}}
+{"sensor_name":"Activity","timestamp":"Wed Feb 15 23:58:11 EST 2017","time_stamp":"Wed Feb 15 23:58:11 EST 2017","sensor_data":{"step_counts":300,"step_delta":19}}
+{"sensor_name":"Activity","timestamp":"Wed Feb 15 23:58:11 EST 2017","time_stamp":"Wed Feb 15 23:58:11 EST 2017","sensor_data":{"step_counts":312,"step_delta":12}}
+{"sensor_name":"Activity","timestamp":"Wed Feb 15 23:58:11 EST 2017","time_stamp":"Wed Feb 15 23:58:11 EST 2017","sensor_data":{"step_counts":332,"step_delta":20}}
+{"sensor_name":"Activity","timestamp":"Wed Feb 15 23:58:11 EST 2017","time_stamp":"Wed Feb 15 23:58:11 EST 2017","sensor_data":{"step_counts":357,"step_delta":25}}
+{"sensor_name":"Activity","timestamp":"Wed Feb 15 23:58:11 EST 2017","time_stamp":"Wed Feb 15 23:58:11 EST 2017","sensor_data":{"step_counts":389,"step_delta":32}}

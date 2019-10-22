@@ -1,0 +1,16 @@
+{"sensor_name":"HeartRate","timestamp":"Thu Nov 24 13:43:08 EST 2016","sensor_data":{"bpm":123}}
+{"sensor_name":"HeartRate","timestamp":"Thu Nov 24 14:30:04 EST 2016","sensor_data":{"bpm":75}}
+{"sensor_name":"HeartRate","timestamp":"Thu Nov 24 15:04:01 EST 2016","sensor_data":{"bpm":81}}
+{"sensor_name":"HeartRate","timestamp":"Thu Nov 24 15:49:04 EST 2016","sensor_data":{"bpm":68}}
+{"sensor_name":"HeartRate","timestamp":"Thu Nov 24 16:30:07 EST 2016","sensor_data":{"bpm":60}}
+{"sensor_name":"HeartRate","timestamp":"Thu Nov 24 17:03:01 EST 2016","sensor_data":{"bpm":83}}
+{"sensor_name":"HeartRate","timestamp":"Thu Nov 24 17:43:00 EST 2016","sensor_data":{"bpm":79}}
+{"sensor_name":"HeartRate","timestamp":"Thu Nov 24 18:16:00 EST 2016","sensor_data":{"bpm":93}}
+{"sensor_name":"HeartRate","timestamp":"Thu Nov 24 18:57:01 EST 2016","sensor_data":{"bpm":91}}
+{"sensor_name":"HeartRate","timestamp":"Thu Nov 24 19:30:03 EST 2016","sensor_data":{"bpm":96}}
+{"sensor_name":"HeartRate","timestamp":"Thu Nov 24 20:03:01 EST 2016","sensor_data":{"bpm":77}}
+{"sensor_name":"HeartRate","timestamp":"Thu Nov 24 20:43:06 EST 2016","sensor_data":{"bpm":82}}
+{"sensor_name":"HeartRate","timestamp":"Thu Nov 24 21:30:06 EST 2016","sensor_data":{"bpm":73}}
+{"sensor_name":"HeartRate","timestamp":"Thu Nov 24 22:03:01 EST 2016","sensor_data":{"bpm":82}}
+{"sensor_name":"HeartRate","timestamp":"Thu Nov 24 22:43:10 EST 2016","sensor_data":{"bpm":61}}
+{"sensor_name":"HeartRate","timestamp":"Thu Nov 24 23:30:34 EST 2016","sensor_data":{"bpm":92}}

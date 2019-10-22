@@ -1,0 +1,15 @@
+activity(step),39,Wed Feb 15 12:37:10 EST 2017,very inactive,13:00
+activity(step),63,Wed Feb 15 12:39:01 EST 2017,very inactive,13:00
+activity(step),101,Wed Feb 15 12:46:44 EST 2017,very inactive,13:00
+activity(step),146,Wed Feb 15 12:51:30 EST 2017,very inactive,13:00
+activity(step),163,Wed Feb 15 12:53:00 EST 2017,very inactive,13:00
+activity(step),176,Wed Feb 15 13:18:51 EST 2017,very inactive,13:00
+activity(step),178,Wed Feb 15 13:19:51 EST 2017,very inactive,13:00
+activity(step),224,Wed Feb 15 13:20:27 EST 2017,very inactive,13:00
+activity(step),262,Wed Feb 15 16:51:44 EST 2017,very inactive,17:00
+activity(step),281,Wed Feb 15 19:29:00 EST 2017,very inactive,19:00
+activity(step),300,Wed Feb 15 19:44:58 EST 2017,very inactive,20:00
+activity(step),312,Wed Feb 15 20:09:01 EST 2017,very inactive,20:00
+activity(step),332,Wed Feb 15 20:27:01 EST 2017,very inactive,20:00
+activity(step),357,Wed Feb 15 20:29:32 EST 2017,very inactive,20:00
+activity(step),389,Wed Feb 15 20:32:45 EST 2017,very inactive,21:00

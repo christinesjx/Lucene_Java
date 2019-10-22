@@ -1,0 +1,7 @@
+{"sensor_name":"BT","timestamp":"Wed Mar 8 08:46:09 EST 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Wed Mar 8 08:47:22 EST 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"BT","timestamp":"Wed Mar 8 08:53:23 EST 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Wed Mar 8 08:54:08 EST 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"BT","timestamp":"Wed Mar 8 09:10:07 EST 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Wed Mar 8 09:11:11 EST 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"BT","timestamp":"Wed Mar 8 13:48:07 EST 2017","sensor_data":{"state":"Connected"}}

@@ -1,0 +1,67 @@
+activity(step),12,Fri Apr 14 10:21:27 EDT 2017,very inactive,10:00
+activity(step),74,Fri Apr 14 10:23:57 EDT 2017,very inactive,10:00
+activity(step),143,Fri Apr 14 10:26:01 EDT 2017,very inactive,10:00
+activity(step),229,Fri Apr 14 10:28:09 EDT 2017,very inactive,10:00
+activity(step),348,Fri Apr 14 10:31:01 EDT 2017,very inactive,11:00
+activity(step),371,Fri Apr 14 10:32:51 EDT 2017,very inactive,11:00
+activity(step),456,Fri Apr 14 10:33:51 EDT 2017,very inactive,11:00
+activity(step),468,Fri Apr 14 10:37:23 EDT 2017,very inactive,11:00
+activity(step),569,Fri Apr 14 10:38:23 EDT 2017,very inactive,11:00
+activity(step),587,Fri Apr 14 11:22:24 EDT 2017,very inactive,11:00
+activity(step),607,Fri Apr 14 11:24:27 EDT 2017,very inactive,11:00
+activity(step),640,Fri Apr 14 11:30:05 EDT 2017,very inactive,11:00
+activity(step),652,Fri Apr 14 11:41:39 EDT 2017,very inactive,12:00
+activity(step),676,Fri Apr 14 11:43:00 EDT 2017,very inactive,12:00
+activity(step),697,Fri Apr 14 11:45:01 EDT 2017,very inactive,12:00
+activity(step),733,Fri Apr 14 11:46:01 EDT 2017,very inactive,12:00
+activity(step),750,Fri Apr 14 11:46:58 EDT 2017,very inactive,12:00
+activity(step),848,Fri Apr 14 11:47:11 EDT 2017,very inactive,12:00
+activity(step),849,Fri Apr 14 11:48:33 EDT 2017,very inactive,12:00
+activity(step),964,Fri Apr 14 11:48:34 EDT 2017,very inactive,12:00
+activity(step),1012,Fri Apr 14 11:49:35 EDT 2017,inactive,12:00
+activity(step),1092,Fri Apr 14 11:50:59 EDT 2017,inactive,12:00
+activity(step),1106,Fri Apr 14 13:39:48 EDT 2017,inactive,14:00
+activity(step),1133,Fri Apr 14 14:10:24 EDT 2017,inactive,14:00
+activity(step),1172,Fri Apr 14 14:11:24 EDT 2017,inactive,14:00
+activity(step),1194,Fri Apr 14 14:12:29 EDT 2017,inactive,14:00
+activity(step),1225,Fri Apr 14 14:16:58 EDT 2017,inactive,14:00
+activity(step),1310,Fri Apr 14 14:18:00 EDT 2017,inactive,14:00
+activity(step),1316,Fri Apr 14 14:19:01 EDT 2017,inactive,14:00
+activity(step),1389,Fri Apr 14 14:19:03 EDT 2017,inactive,14:00
+activity(step),1482,Fri Apr 14 14:20:43 EDT 2017,inactive,14:00
+activity(step),1499,Fri Apr 14 14:56:52 EDT 2017,inactive,15:00
+activity(step),1531,Fri Apr 14 14:57:52 EDT 2017,inactive,15:00
+activity(step),1554,Fri Apr 14 15:28:54 EDT 2017,inactive,15:00
+activity(step),1570,Fri Apr 14 15:31:00 EDT 2017,inactive,16:00
+activity(step),1595,Fri Apr 14 15:36:40 EDT 2017,inactive,16:00
+activity(step),1611,Fri Apr 14 15:38:06 EDT 2017,inactive,16:00
+activity(step),1625,Fri Apr 14 15:39:06 EDT 2017,inactive,16:00
+activity(step),1775,Fri Apr 14 15:39:15 EDT 2017,inactive,16:00
+activity(step),1811,Fri Apr 14 16:45:08 EDT 2017,inactive,17:00
+activity(step),1846,Fri Apr 14 16:46:40 EDT 2017,inactive,17:00
+activity(step),1924,Fri Apr 14 16:58:24 EDT 2017,inactive,17:00
+activity(step),1976,Fri Apr 14 17:01:16 EDT 2017,inactive,17:00
+activity(step),2008,Fri Apr 14 17:03:00 EDT 2017,inactive,17:00
+activity(step),2035,Fri Apr 14 17:29:01 EDT 2017,inactive,17:00
+activity(step),2053,Fri Apr 14 17:30:01 EDT 2017,inactive,17:00
+activity(step),2104,Fri Apr 14 17:42:58 EDT 2017,inactive,18:00
+activity(step),2237,Fri Apr 14 17:44:40 EDT 2017,inactive,18:00
+activity(step),2277,Fri Apr 14 17:46:37 EDT 2017,inactive,18:00
+activity(step),2319,Fri Apr 14 17:47:57 EDT 2017,inactive,18:00
+activity(step),2353,Fri Apr 14 17:48:34 EDT 2017,inactive,18:00
+activity(step),2386,Fri Apr 14 18:15:34 EDT 2017,inactive,18:00
+activity(step),2432,Fri Apr 14 18:17:02 EDT 2017,inactive,18:00
+activity(step),2506,Fri Apr 14 18:42:22 EDT 2017,inactive,19:00
+activity(step),2518,Fri Apr 14 18:45:14 EDT 2017,inactive,19:00
+activity(step),2520,Fri Apr 14 18:46:14 EDT 2017,inactive,19:00
+activity(step),2540,Fri Apr 14 18:46:16 EDT 2017,inactive,19:00
+activity(step),2562,Fri Apr 14 18:56:00 EDT 2017,inactive,19:00
+activity(step),2591,Fri Apr 14 19:10:22 EDT 2017,inactive,19:00
+activity(step),2621,Fri Apr 14 19:58:05 EDT 2017,inactive,20:00
+activity(step),2628,Fri Apr 14 19:59:05 EDT 2017,inactive,20:00
+activity(step),2641,Fri Apr 14 20:38:22 EDT 2017,inactive,21:00
+activity(step),2659,Fri Apr 14 20:39:22 EDT 2017,inactive,21:00
+activity(step),2686,Fri Apr 14 23:09:01 EDT 2017,inactive,23:00
+activity(step),2710,Fri Apr 14 23:12:01 EDT 2017,inactive,23:00
+activity(step),2723,Fri Apr 14 23:13:01 EDT 2017,inactive,23:00
+activity(step),2726,Fri Apr 14 23:14:00 EDT 2017,inactive,23:00

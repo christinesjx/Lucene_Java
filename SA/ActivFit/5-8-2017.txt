@@ -1,0 +1,14 @@
+activity,unknown,Mon May 08 00:00:00 EDT 2017,unknown,0:00
+activity,walking,Mon May 08 12:10:00 EDT 2017,walking,12:00
+activity,unknown,Mon May 08 12:11:15 EDT 2017,unknown,12:00
+activity,walking,Mon May 08 12:37:56 EDT 2017,walking,13:00
+activity,unknown,Mon May 08 12:39:37 EDT 2017,unknown,13:00
+activity,walking,Mon May 08 12:48:20 EDT 2017,walking,13:00
+activity,unknown,Mon May 08 12:53:37 EDT 2017,unknown,13:00
+activity,walking,Mon May 08 13:12:49 EDT 2017,walking,13:00
+activity,unknown,Mon May 08 13:14:01 EDT 2017,unknown,13:00
+activity,walking,Mon May 08 14:07:01 EDT 2017,walking,14:00
+activity,walking,Mon May 08 14:09:37 EDT 2017,walking,14:00
+activity,unknown,Mon May 08 14:11:01 EDT 2017,unknown,14:00
+activity,walking,Mon May 08 16:34:01 EDT 2017,walking,17:00
+activity,unknown,Mon May 08 16:35:37 EDT 2017,unknown,17:00

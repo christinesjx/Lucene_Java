@@ -1,0 +1,2 @@
+{"sensor_name":"Activity","timestamp":"Sun Feb 19 23:44:35 EST 2017","time_stamp":"Sun Feb 19 23:44:35 EST 2017","sensor_data":{"step_counts":19,"step_delta":19}}
+{"sensor_name":"Activity","timestamp":"Sun Feb 19 23:44:35 EST 2017","time_stamp":"Sun Feb 19 23:44:35 EST 2017","sensor_data":{"step_counts":55,"step_delta":36}}

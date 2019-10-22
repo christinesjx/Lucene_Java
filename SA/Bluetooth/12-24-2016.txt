@@ -1,0 +1,12 @@
+bt,Connected,Sat Dec 24 01:48:57 EST 2016,Connected,2:00
+bt,Disconnected,Sat Dec 24 09:30:32 EST 2016,Disconnected,9:00
+bt,Connected,Sat Dec 24 09:31:14 EST 2016,Connected,10:00
+bt,Disconnected,Sat Dec 24 09:32:11 EST 2016,Disconnected,10:00
+bt,Connected,Sat Dec 24 09:33:18 EST 2016,Connected,10:00
+bt,Disconnected,Sat Dec 24 10:26:46 EST 2016,Disconnected,10:00
+bt,Connected,Sat Dec 24 10:27:21 EST 2016,Connected,10:00
+bt,Disconnected,Sat Dec 24 10:38:05 EST 2016,Disconnected,11:00
+bt,Connected,Sat Dec 24 10:38:05 EST 2016,Connected,11:00
+bt,Disconnected,Sat Dec 24 11:30:41 EST 2016,Disconnected,11:00
+bt,Connected,Sat Dec 24 11:30:59 EST 2016,Connected,11:00
+bt,Connected,Sat Dec 24 12:14:23 EST 2016,Connected,12:00

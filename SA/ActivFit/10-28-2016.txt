@@ -1,0 +1,15 @@
+activity,unknown,Fri Oct 28 00:00:00 EDT 2016,unknown,0:00
+activity,walking,Fri Oct 28 09:42:45 EDT 2016,walking,10:00
+activity,unknown,Fri Oct 28 09:45:01 EDT 2016,unknown,10:00
+activity,walking,Fri Oct 28 11:21:55 EDT 2016,walking,11:00
+activity,unknown,Fri Oct 28 11:24:14 EDT 2016,unknown,11:00
+activity,walking,Fri Oct 28 12:07:30 EDT 2016,walking,12:00
+activity,unknown,Fri Oct 28 12:09:53 EDT 2016,unknown,12:00
+activity,walking,Fri Oct 28 15:31:19 EDT 2016,walking,16:00
+activity,unknown,Fri Oct 28 15:33:01 EDT 2016,unknown,16:00
+activity,walking,Fri Oct 28 15:52:53 EDT 2016,walking,16:00
+activity,unknown,Fri Oct 28 15:54:01 EDT 2016,unknown,16:00
+activity,walking,Fri Oct 28 16:48:34 EDT 2016,walking,17:00
+activity,unknown,Fri Oct 28 16:50:01 EDT 2016,unknown,17:00
+activity,walking,Fri Oct 28 16:52:33 EDT 2016,walking,17:00
+activity,unknown,Fri Oct 28 16:55:01 EDT 2016,unknown,17:00

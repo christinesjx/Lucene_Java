@@ -1,0 +1,9 @@
+activity(step),14,Sat Mar 18 04:08:48 EDT 2017,very inactive,4:00
+activity(step),28,Sat Mar 18 04:10:16 EDT 2017,very inactive,4:00
+activity(step),49,Sat Mar 18 04:11:47 EDT 2017,very inactive,4:00
+activity(step),66,Sat Mar 18 08:30:47 EDT 2017,very inactive,8:00
+activity(step),78,Sat Mar 18 08:41:27 EDT 2017,very inactive,9:00
+activity(step),89,Sat Mar 18 08:42:27 EDT 2017,very inactive,9:00
+activity(step),109,Sat Mar 18 08:58:35 EDT 2017,very inactive,9:00
+activity(step),123,Sat Mar 18 08:59:36 EDT 2017,very inactive,9:00
+activity(step),139,Sat Mar 18 10:40:25 EDT 2017,very inactive,11:00

@@ -1,0 +1,3 @@
+activity,unknown,Fri Nov 11 00:00:00 EST 2016,unknown,0:00
+activity,walking,Fri Nov 11 18:42:00 EST 2016,walking,19:00
+activity,unknown,Fri Nov 11 18:43:14 EST 2016,unknown,19:00

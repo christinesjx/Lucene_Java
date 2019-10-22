@@ -1,0 +1,13 @@
+activity(step),20,Sun Apr 30 15:45:38 EDT 2017,very inactive,16:00
+activity(step),35,Sun Apr 30 16:51:14 EDT 2017,very inactive,17:00
+activity(step),67,Sun Apr 30 16:52:14 EDT 2017,very inactive,17:00
+activity(step),79,Sun Apr 30 17:00:33 EDT 2017,very inactive,17:00
+activity(step),92,Sun Apr 30 18:56:51 EDT 2017,very inactive,19:00
+activity(step),139,Sun Apr 30 20:22:49 EDT 2017,very inactive,20:00
+activity(step),158,Sun Apr 30 20:24:24 EDT 2017,very inactive,20:00
+activity(step),259,Sun Apr 30 20:25:24 EDT 2017,very inactive,20:00
+activity(step),271,Sun Apr 30 20:26:55 EDT 2017,very inactive,20:00
+activity(step),310,Sun Apr 30 20:28:13 EDT 2017,very inactive,20:00
+activity(step),329,Sun Apr 30 20:43:59 EDT 2017,very inactive,21:00
+activity(step),342,Sun Apr 30 20:56:40 EDT 2017,very inactive,21:00
+activity(step),361,Sun Apr 30 20:57:40 EDT 2017,very inactive,21:00

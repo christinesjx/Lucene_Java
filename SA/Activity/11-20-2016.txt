@@ -1,0 +1,55 @@
+activity(step),17,Sun Nov 20 14:58:06 EST 2016,very inactive,15:00
+activity(step),36,Sun Nov 20 14:59:06 EST 2016,very inactive,15:00
+activity(step),53,Sun Nov 20 15:14:54 EST 2016,very inactive,15:00
+activity(step),83,Sun Nov 20 15:16:04 EST 2016,very inactive,15:00
+activity(step),99,Sun Nov 20 15:17:04 EST 2016,very inactive,15:00
+activity(step),114,Sun Nov 20 16:18:01 EST 2016,very inactive,16:00
+activity(step),229,Sun Nov 20 16:19:01 EST 2016,very inactive,16:00
+activity(step),272,Sun Nov 20 16:20:01 EST 2016,very inactive,16:00
+activity(step),331,Sun Nov 20 16:21:03 EST 2016,very inactive,16:00
+activity(step),348,Sun Nov 20 16:23:01 EST 2016,very inactive,16:00
+activity(step),375,Sun Nov 20 16:26:01 EST 2016,very inactive,16:00
+activity(step),394,Sun Nov 20 16:27:01 EST 2016,very inactive,16:00
+activity(step),487,Sun Nov 20 16:27:45 EST 2016,very inactive,16:00
+activity(step),502,Sun Nov 20 16:29:01 EST 2016,very inactive,16:00
+activity(step),536,Sun Nov 20 16:30:53 EST 2016,very inactive,16:00
+activity(step),547,Sun Nov 20 16:32:01 EST 2016,very inactive,17:00
+activity(step),568,Sun Nov 20 16:34:01 EST 2016,very inactive,17:00
+activity(step),601,Sun Nov 20 16:35:55 EST 2016,very inactive,17:00
+activity(step),614,Sun Nov 20 16:37:33 EST 2016,very inactive,17:00
+activity(step),658,Sun Nov 20 16:38:33 EST 2016,very inactive,17:00
+activity(step),680,Sun Nov 20 16:49:01 EST 2016,very inactive,17:00
+activity(step),692,Sun Nov 20 17:07:34 EST 2016,very inactive,17:00
+activity(step),730,Sun Nov 20 17:09:00 EST 2016,very inactive,17:00
+activity(step),755,Sun Nov 20 17:18:01 EST 2016,very inactive,17:00
+activity(step),769,Sun Nov 20 17:19:01 EST 2016,very inactive,17:00
+activity(step),789,Sun Nov 20 17:20:01 EST 2016,very inactive,17:00
+activity(step),808,Sun Nov 20 17:33:01 EST 2016,very inactive,18:00
+activity(step),823,Sun Nov 20 17:34:01 EST 2016,very inactive,18:00
+activity(step),876,Sun Nov 20 17:39:15 EST 2016,very inactive,18:00
+activity(step),882,Sun Nov 20 17:41:01 EST 2016,very inactive,18:00
+activity(step),929,Sun Nov 20 17:47:27 EST 2016,very inactive,18:00
+activity(step),975,Sun Nov 20 17:49:29 EST 2016,very inactive,18:00
+activity(step),1017,Sun Nov 20 18:36:22 EST 2016,inactive,19:00
+activity(step),1039,Sun Nov 20 18:41:01 EST 2016,inactive,19:00
+activity(step),1054,Sun Nov 20 18:42:01 EST 2016,inactive,19:00
+activity(step),1071,Sun Nov 20 18:49:01 EST 2016,inactive,19:00
+activity(step),1124,Sun Nov 20 18:53:15 EST 2016,inactive,19:00
+activity(step),1140,Sun Nov 20 18:55:01 EST 2016,inactive,19:00
+activity(step),1152,Sun Nov 20 19:01:43 EST 2016,inactive,19:00
+activity(step),1171,Sun Nov 20 19:02:55 EST 2016,inactive,19:00
+activity(step),1184,Sun Nov 20 19:21:01 EST 2016,inactive,19:00
+activity(step),1288,Sun Nov 20 19:22:01 EST 2016,inactive,19:00
+activity(step),1342,Sun Nov 20 19:23:01 EST 2016,inactive,19:00
+activity(step),1362,Sun Nov 20 19:59:01 EST 2016,inactive,20:00
+activity(step),1375,Sun Nov 20 20:16:47 EST 2016,inactive,20:00
+activity(step),1419,Sun Nov 20 20:23:33 EST 2016,inactive,20:00
+activity(step),1494,Sun Nov 20 20:38:31 EST 2016,inactive,21:00
+activity(step),1598,Sun Nov 20 20:41:01 EST 2016,inactive,21:00
+activity(step),1684,Sun Nov 20 20:43:01 EST 2016,inactive,21:00
+activity(step),1831,Sun Nov 20 20:44:01 EST 2016,inactive,21:00
+activity(step),1854,Sun Nov 20 20:49:00 EST 2016,inactive,21:00
+activity(step),1918,Sun Nov 20 20:54:36 EST 2016,inactive,21:00
+activity(step),1990,Sun Nov 20 20:56:44 EST 2016,inactive,21:00
+activity(step),2118,Sun Nov 20 20:57:46 EST 2016,inactive,21:00
+activity(step),2168,Sun Nov 20 20:59:01 EST 2016,inactive,21:00

@@ -1,0 +1,9 @@
+activity,unknown,Tue Mar 28 00:00:00 EDT 2017,unknown,0:00
+activity,walking,Tue Mar 28 18:09:24 EDT 2017,walking,18:00
+activity,unknown,Tue Mar 28 18:11:01 EDT 2017,unknown,18:00
+activity,walking,Tue Mar 28 18:23:00 EDT 2017,walking,18:00
+activity,unknown,Tue Mar 28 18:24:01 EDT 2017,unknown,18:00
+activity,walking,Tue Mar 28 21:27:49 EDT 2017,walking,21:00
+activity,unknown,Tue Mar 28 21:28:54 EDT 2017,unknown,21:00
+activity,walking,Tue Mar 28 22:03:00 EDT 2017,walking,22:00
+activity,unknown,Tue Mar 28 22:05:00 EDT 2017,unknown,22:00

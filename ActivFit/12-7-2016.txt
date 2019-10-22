@@ -1,0 +1,13 @@
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Dec 7 00:00:00 EST 2016","end_time":"Wed Dec 7 12:10:01 EST 2016"},"sensor_data":{"activity":"unknown","duration":43801197}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Dec 7 12:10:01 EST 2016","end_time":"Wed Dec 7 12:13:01 EST 2016"},"sensor_data":{"activity":"walking","duration":180016}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Dec 7 12:13:12 EST 2016","end_time":"Wed Dec 7 12:15:05 EST 2016"},"sensor_data":{"activity":"walking","duration":112969}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Dec 7 12:15:05 EST 2016","end_time":"Wed Dec 7 15:33:01 EST 2016"},"sensor_data":{"activity":"unknown","duration":11875405}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Dec 7 15:33:01 EST 2016","end_time":"Wed Dec 7 15:38:00 EST 2016"},"sensor_data":{"activity":"walking","duration":299812}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Dec 7 15:38:00 EST 2016","end_time":"Wed Dec 7 17:16:01 EST 2016"},"sensor_data":{"activity":"unknown","duration":5880684}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Dec 7 17:16:01 EST 2016","end_time":"Wed Dec 7 17:22:01 EST 2016"},"sensor_data":{"activity":"walking","duration":360009}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Dec 7 17:23:00 EST 2016","end_time":"Wed Dec 7 17:25:01 EST 2016"},"sensor_data":{"activity":"walking","duration":121157}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Dec 7 17:25:01 EST 2016","end_time":"Wed Dec 7 17:43:13 EST 2016"},"sensor_data":{"activity":"unknown","duration":1091614}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Dec 7 17:43:13 EST 2016","end_time":"Wed Dec 7 17:45:01 EST 2016"},"sensor_data":{"activity":"walking","duration":108465}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Dec 7 17:45:01 EST 2016","end_time":"Wed Dec 7 19:51:39 EST 2016"},"sensor_data":{"activity":"unknown","duration":7598125}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Dec 7 19:51:39 EST 2016","end_time":"Wed Dec 7 19:56:01 EST 2016"},"sensor_data":{"activity":"walking","duration":261690}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Dec 7 19:56:01 EST 2016","end_time":"Wed Dec 7 22:43:39 EST 2016"},"sensor_data":{"activity":"unknown","duration":10058020}}

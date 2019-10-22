@@ -1,0 +1,5 @@
+activity,unknown,Mon Apr 10 00:00:00 EDT 2017,unknown,0:00
+activity,walking,Mon Apr 10 12:01:54 EDT 2017,walking,12:00
+activity,unknown,Mon Apr 10 12:04:56 EDT 2017,unknown,12:00
+activity,walking,Mon Apr 10 17:01:30 EDT 2017,walking,17:00
+activity,unknown,Mon Apr 10 17:03:01 EDT 2017,unknown,17:00

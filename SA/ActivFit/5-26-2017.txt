@@ -1,0 +1,10 @@
+activity,unknown,Fri May 26 00:00:00 EDT 2017,unknown,0:00
+activity,walking,Fri May 26 12:53:54 EDT 2017,walking,13:00
+activity,unknown,Fri May 26 12:55:54 EDT 2017,unknown,13:00
+activity,walking,Fri May 26 17:36:08 EDT 2017,walking,18:00
+activity,unknown,Fri May 26 17:40:07 EDT 2017,unknown,18:00
+activity,walking,Fri May 26 17:58:49 EDT 2017,walking,18:00
+activity,unknown,Fri May 26 18:00:02 EDT 2017,unknown,18:00
+activity,walking,Fri May 26 18:11:20 EDT 2017,walking,18:00
+activity,walking,Fri May 26 18:15:57 EDT 2017,walking,18:00
+activity,unknown,Fri May 26 18:18:24 EDT 2017,unknown,18:00

@@ -1,0 +1,46 @@
+activity(step),35,Thu May 18 11:31:51 EDT 2017,very inactive,12:00
+activity(step),59,Thu May 18 11:33:01 EDT 2017,very inactive,12:00
+activity(step),90,Thu May 18 11:37:58 EDT 2017,very inactive,12:00
+activity(step),107,Thu May 18 11:57:00 EDT 2017,very inactive,12:00
+activity(step),125,Thu May 18 13:01:26 EDT 2017,very inactive,13:00
+activity(step),159,Thu May 18 13:02:26 EDT 2017,very inactive,13:00
+activity(step),178,Thu May 18 13:09:26 EDT 2017,very inactive,13:00
+activity(step),205,Thu May 18 13:10:26 EDT 2017,very inactive,13:00
+activity(step),308,Thu May 18 13:11:00 EDT 2017,very inactive,13:00
+activity(step),344,Thu May 18 13:12:00 EDT 2017,very inactive,13:00
+activity(step),363,Thu May 18 13:14:49 EDT 2017,very inactive,13:00
+activity(step),378,Thu May 18 13:59:34 EDT 2017,very inactive,14:00
+activity(step),380,Thu May 18 14:00:34 EDT 2017,very inactive,14:00
+activity(step),506,Thu May 18 14:00:35 EDT 2017,very inactive,14:00
+activity(step),556,Thu May 18 14:54:09 EDT 2017,very inactive,15:00
+activity(step),564,Thu May 18 14:55:49 EDT 2017,very inactive,15:00
+activity(step),591,Thu May 18 16:04:36 EDT 2017,very inactive,16:00
+activity(step),610,Thu May 18 16:05:36 EDT 2017,very inactive,16:00
+activity(step),657,Thu May 18 16:58:26 EDT 2017,very inactive,17:00
+activity(step),689,Thu May 18 17:00:00 EDT 2017,very inactive,17:00
+activity(step),703,Thu May 18 17:29:27 EDT 2017,very inactive,17:00
+activity(step),729,Thu May 18 17:30:27 EDT 2017,very inactive,17:00
+activity(step),752,Thu May 18 17:50:12 EDT 2017,very inactive,18:00
+activity(step),769,Thu May 18 18:33:00 EDT 2017,very inactive,19:00
+activity(step),817,Thu May 18 19:26:25 EDT 2017,very inactive,19:00
+activity(step),840,Thu May 18 19:33:43 EDT 2017,very inactive,20:00
+activity(step),852,Thu May 18 20:07:04 EDT 2017,very inactive,20:00
+activity(step),941,Thu May 18 20:08:04 EDT 2017,very inactive,20:00
+activity(step),1045,Thu May 18 20:09:05 EDT 2017,inactive,20:00
+activity(step),1130,Thu May 18 20:10:00 EDT 2017,inactive,20:00
+activity(step),1144,Thu May 18 20:10:44 EDT 2017,inactive,20:00
+activity(step),1281,Thu May 18 20:10:49 EDT 2017,inactive,20:00
+activity(step),1315,Thu May 18 20:12:01 EDT 2017,inactive,20:00
+activity(step),1378,Thu May 18 20:12:44 EDT 2017,inactive,20:00
+activity(step),1432,Thu May 18 20:14:01 EDT 2017,inactive,20:00
+activity(step),1513,Thu May 18 20:14:43 EDT 2017,inactive,20:00
+activity(step),1626,Thu May 18 20:15:46 EDT 2017,inactive,20:00
+activity(step),1639,Thu May 18 20:16:44 EDT 2017,inactive,20:00
+activity(step),1710,Thu May 18 20:16:50 EDT 2017,inactive,20:00
+activity(step),1722,Thu May 18 20:18:01 EDT 2017,inactive,20:00
+activity(step),1782,Thu May 18 20:18:57 EDT 2017,inactive,20:00
+activity(step),1865,Thu May 18 20:20:43 EDT 2017,inactive,20:00
+activity(step),1921,Thu May 18 20:22:51 EDT 2017,inactive,20:00
+activity(step),1946,Thu May 18 20:59:01 EDT 2017,inactive,21:00
+activity(step),1964,Thu May 18 23:32:24 EDT 2017,inactive,0:00
+activity(step),2002,Thu May 18 23:33:24 EDT 2017,inactive,0:00

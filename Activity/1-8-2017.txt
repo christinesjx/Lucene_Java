@@ -1,0 +1,4 @@
+{"sensor_name":"Activity","timestamp":"Sun Jan 08 23:39:05 EST 2017","time_stamp":"Sun Jan 8 23:39:05 EST 2017","sensor_data":{"step_counts":22,"step_delta":22}}
+{"sensor_name":"Activity","timestamp":"Sun Jan 08 23:39:05 EST 2017","time_stamp":"Sun Jan 8 23:39:05 EST 2017","sensor_data":{"step_counts":50,"step_delta":28}}
+{"sensor_name":"Activity","timestamp":"Sun Jan 08 23:39:05 EST 2017","time_stamp":"Sun Jan 8 23:39:05 EST 2017","sensor_data":{"step_counts":64,"step_delta":14}}
+{"sensor_name":"Activity","timestamp":"Sun Jan 08 23:39:05 EST 2017","time_stamp":"Sun Jan 8 23:39:05 EST 2017","sensor_data":{"step_counts":81,"step_delta":17}}

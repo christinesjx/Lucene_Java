@@ -1,0 +1,1 @@
+{"sensor_name":"Activity","timestamp":{"start_time":"Sat Jan 14 00:00:00 EST 2017","end_time":"Sat Jan 14 22:12:07 EST 2017"},"sensor_data":{"activity":"unknown","duration":79927000}}

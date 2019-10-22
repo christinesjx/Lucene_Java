@@ -1,0 +1,4 @@
+bt,Connected,Fri Oct 28 10:03:27 EDT 2016,Connected,10:00
+bt,Connected,Fri Oct 28 10:04:04 EDT 2016,Connected,10:00
+bt,Connected,Fri Oct 28 23:36:11 EDT 2016,Connected,0:00
+bt,Connected,Fri Oct 28 23:41:12 EDT 2016,Connected,0:00

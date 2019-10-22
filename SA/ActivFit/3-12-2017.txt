@@ -1,0 +1,8 @@
+activity,unknown,Sat Mar 11 23:00:00 EST 2017,unknown,23:00
+activity,walking,Sun Mar 12 19:06:58 EDT 2017,walking,19:00
+activity,unknown,Sun Mar 12 19:10:44 EDT 2017,unknown,19:00
+activity,walking,Sun Mar 12 19:12:45 EDT 2017,walking,19:00
+activity,unknown,Sun Mar 12 19:14:56 EDT 2017,unknown,19:00
+activity,walking,Sun Mar 12 19:16:47 EDT 2017,walking,19:00
+activity,unknown,Sun Mar 12 19:18:12 EDT 2017,unknown,19:00
+activity,unknown,Sun Mar 12 22:40:55 EDT 2017,unknown,23:00

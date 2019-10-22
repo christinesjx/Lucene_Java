@@ -1,0 +1,5 @@
+activity,unknown,Sun Nov 06 01:00:00 EDT 2016,unknown,1:00
+activity,walking,Sun Nov 06 13:22:01 EST 2016,walking,13:00
+activity,unknown,Sun Nov 06 13:23:09 EST 2016,unknown,13:00
+activity,walking,Sun Nov 06 14:51:01 EST 2016,walking,15:00
+activity,unknown,Sun Nov 06 14:53:01 EST 2016,unknown,15:00

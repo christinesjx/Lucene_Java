@@ -1,0 +1,14 @@
+{"sensor_name":"BT","timestamp":"Thu Feb 23 08:07:06 EST 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Feb 23 08:07:28 EST 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"BT","timestamp":"Thu Feb 23 08:22:39 EST 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Feb 23 08:24:47 EST 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"BT","timestamp":"Thu Feb 23 09:05:24 EST 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Feb 23 09:05:47 EST 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"BT","timestamp":"Thu Feb 23 09:52:54 EST 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Feb 23 09:53:02 EST 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"BT","timestamp":"Thu Feb 23 09:58:15 EST 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Feb 23 09:58:20 EST 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"BT","timestamp":"Thu Feb 23 10:00:00 EST 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Feb 23 10:00:12 EST 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"BT","timestamp":"Thu Feb 23 10:17:23 EST 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Feb 23 10:18:19 EST 2017","sensor_data":{"state":"Connected"}}

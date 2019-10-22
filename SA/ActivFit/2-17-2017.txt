@@ -1,0 +1,13 @@
+activity,unknown,Fri Feb 17 00:00:00 EST 2017,unknown,0:00
+activity,walking,Fri Feb 17 11:26:14 EST 2017,walking,11:00
+activity,unknown,Fri Feb 17 11:29:01 EST 2017,unknown,11:00
+activity,walking,Fri Feb 17 13:38:28 EST 2017,walking,14:00
+activity,unknown,Fri Feb 17 13:40:07 EST 2017,unknown,14:00
+activity,walking,Fri Feb 17 13:52:01 EST 2017,walking,14:00
+activity,unknown,Fri Feb 17 13:53:53 EST 2017,unknown,14:00
+activity,walking,Fri Feb 17 16:40:12 EST 2017,walking,17:00
+activity,unknown,Fri Feb 17 16:41:32 EST 2017,unknown,17:00
+activity,walking,Fri Feb 17 17:08:27 EST 2017,walking,17:00
+activity,unknown,Fri Feb 17 17:11:56 EST 2017,unknown,17:00
+activity,walking,Fri Feb 17 17:24:16 EST 2017,walking,17:00
+activity,unknown,Fri Feb 17 17:27:02 EST 2017,unknown,17:00

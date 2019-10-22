@@ -1,0 +1,8 @@
+bt,Disconnected,Wed Jun 15 16:31:27 EDT 2016,Disconnected,17:00
+bt,Connected,Wed Jun 15 16:31:38 EDT 2016,Connected,17:00
+bt,Disconnected,Wed Jun 15 16:34:28 EDT 2016,Disconnected,17:00
+bt,Connected,Wed Jun 15 16:35:18 EDT 2016,Connected,17:00
+bt,Disconnected,Wed Jun 15 16:36:43 EDT 2016,Disconnected,17:00
+bt,Connected,Wed Jun 15 16:40:28 EDT 2016,Connected,17:00
+bt,Disconnected,Wed Jun 15 17:01:35 EDT 2016,Disconnected,17:00
+bt,Connected,Wed Jun 15 17:01:35 EDT 2016,Connected,17:00

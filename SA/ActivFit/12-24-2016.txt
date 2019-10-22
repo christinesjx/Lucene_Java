@@ -1,0 +1,11 @@
+activity,unknown,Sat Dec 24 00:00:00 EST 2016,unknown,0:00
+activity,walking,Sat Dec 24 16:07:21 EST 2016,walking,16:00
+activity,unknown,Sat Dec 24 16:11:01 EST 2016,unknown,16:00
+activity,walking,Sat Dec 24 17:03:01 EST 2016,walking,17:00
+activity,unknown,Sat Dec 24 17:06:01 EST 2016,unknown,17:00
+activity,walking,Sat Dec 24 21:11:01 EST 2016,walking,21:00
+activity,unknown,Sat Dec 24 21:12:11 EST 2016,unknown,21:00
+activity,walking,Sat Dec 24 21:18:01 EST 2016,walking,21:00
+activity,unknown,Sat Dec 24 21:20:01 EST 2016,unknown,21:00
+activity,walking,Sat Dec 24 21:59:21 EST 2016,walking,22:00
+activity,unknown,Sat Dec 24 22:00:58 EST 2016,unknown,22:00

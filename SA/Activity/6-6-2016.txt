@@ -1,0 +1,161 @@
+activity(step),28,Mon Jun 06 11:27:00 EDT 2016,very inactive,11:00
+activity(step),67,Mon Jun 06 11:28:00 EDT 2016,very inactive,11:00
+activity(step),111,Mon Jun 06 11:28:23 EDT 2016,very inactive,11:00
+activity(step),130,Mon Jun 06 11:33:41 EDT 2016,very inactive,12:00
+activity(step),157,Mon Jun 06 11:34:41 EDT 2016,very inactive,12:00
+activity(step),178,Mon Jun 06 11:44:35 EDT 2016,very inactive,12:00
+activity(step),219,Mon Jun 06 11:45:35 EDT 2016,very inactive,12:00
+activity(step),234,Mon Jun 06 12:27:25 EDT 2016,very inactive,12:00
+activity(step),260,Mon Jun 06 12:28:25 EDT 2016,very inactive,12:00
+activity(step),280,Mon Jun 06 12:41:36 EDT 2016,very inactive,13:00
+activity(step),292,Mon Jun 06 12:57:43 EDT 2016,very inactive,13:00
+activity(step),431,Mon Jun 06 12:58:43 EDT 2016,very inactive,13:00
+activity(step),439,Mon Jun 06 13:00:56 EDT 2016,very inactive,13:00
+activity(step),526,Mon Jun 06 13:01:40 EDT 2016,very inactive,13:00
+activity(step),528,Mon Jun 06 13:02:41 EDT 2016,very inactive,13:00
+activity(step),600,Mon Jun 06 13:02:42 EDT 2016,very inactive,13:00
+activity(step),614,Mon Jun 06 13:03:20 EDT 2016,very inactive,13:00
+activity(step),658,Mon Jun 06 13:03:30 EDT 2016,very inactive,13:00
+activity(step),670,Mon Jun 06 13:04:12 EDT 2016,very inactive,13:00
+activity(step),688,Mon Jun 06 13:05:12 EDT 2016,very inactive,13:00
+activity(step),740,Mon Jun 06 13:06:17 EDT 2016,very inactive,13:00
+activity(step),755,Mon Jun 06 13:09:56 EDT 2016,very inactive,13:00
+activity(step),822,Mon Jun 06 13:10:56 EDT 2016,very inactive,13:00
+activity(step),903,Mon Jun 06 13:13:01 EDT 2016,very inactive,13:00
+activity(step),905,Mon Jun 06 13:14:01 EDT 2016,very inactive,13:00
+activity(step),963,Mon Jun 06 13:14:05 EDT 2016,very inactive,13:00
+activity(step),980,Mon Jun 06 13:16:01 EDT 2016,very inactive,13:00
+activity(step),1095,Mon Jun 06 13:16:09 EDT 2016,inactive,13:00
+activity(step),1097,Mon Jun 06 13:17:25 EDT 2016,inactive,13:00
+activity(step),1134,Mon Jun 06 13:18:25 EDT 2016,inactive,13:00
+activity(step),1146,Mon Jun 06 13:18:57 EDT 2016,inactive,13:00
+activity(step),1174,Mon Jun 06 13:49:01 EDT 2016,inactive,14:00
+activity(step),1186,Mon Jun 06 14:35:59 EDT 2016,inactive,15:00
+activity(step),1190,Mon Jun 06 14:36:59 EDT 2016,inactive,15:00
+activity(step),1203,Mon Jun 06 14:37:34 EDT 2016,inactive,15:00
+activity(step),1209,Mon Jun 06 14:38:34 EDT 2016,inactive,15:00
+activity(step),1228,Mon Jun 06 16:33:33 EDT 2016,inactive,17:00
+activity(step),1241,Mon Jun 06 16:34:33 EDT 2016,inactive,17:00
+activity(step),1275,Mon Jun 06 16:37:40 EDT 2016,inactive,17:00
+activity(step),1292,Mon Jun 06 16:38:48 EDT 2016,inactive,17:00
+activity(step),1304,Mon Jun 06 16:47:02 EDT 2016,inactive,17:00
+activity(step),1320,Mon Jun 06 17:05:14 EDT 2016,inactive,17:00
+activity(step),1352,Mon Jun 06 17:15:32 EDT 2016,inactive,17:00
+activity(step),1373,Mon Jun 06 17:21:14 EDT 2016,inactive,17:00
+activity(step),1380,Mon Jun 06 17:22:14 EDT 2016,inactive,17:00
+activity(step),1449,Mon Jun 06 17:26:37 EDT 2016,inactive,17:00
+activity(step),1450,Mon Jun 06 17:28:55 EDT 2016,inactive,17:00
+activity(step),1485,Mon Jun 06 17:28:56 EDT 2016,inactive,17:00
+activity(step),1509,Mon Jun 06 17:57:25 EDT 2016,inactive,18:00
+activity(step),1511,Mon Jun 06 17:58:25 EDT 2016,inactive,18:00
+activity(step),1523,Mon Jun 06 18:41:07 EDT 2016,inactive,19:00
+activity(step),1564,Mon Jun 06 18:42:07 EDT 2016,inactive,19:00
+activity(step),1576,Mon Jun 06 18:42:57 EDT 2016,inactive,19:00
+activity(step),1582,Mon Jun 06 18:43:57 EDT 2016,inactive,19:00
+activity(step),1594,Mon Jun 06 18:46:43 EDT 2016,inactive,19:00
+activity(step),1711,Mon Jun 06 18:47:55 EDT 2016,inactive,19:00
+activity(step),1712,Mon Jun 06 18:51:49 EDT 2016,inactive,19:00
+activity(step),1731,Mon Jun 06 18:52:01 EDT 2016,inactive,19:00
+activity(step),1734,Mon Jun 06 18:53:01 EDT 2016,inactive,19:00
+activity(step),1819,Mon Jun 06 18:53:03 EDT 2016,inactive,19:00
+activity(step),1820,Mon Jun 06 18:55:31 EDT 2016,inactive,19:00
+activity(step),1936,Mon Jun 06 18:55:31 EDT 2016,inactive,19:00
+activity(step),1937,Mon Jun 06 18:56:55 EDT 2016,inactive,19:00
+activity(step),1972,Mon Jun 06 18:56:56 EDT 2016,inactive,19:00
+activity(step),1993,Mon Jun 06 18:57:58 EDT 2016,inactive,19:00
+activity(step),2005,Mon Jun 06 19:00:10 EDT 2016,inactive,19:00
+activity(step),2015,Mon Jun 06 19:01:10 EDT 2016,inactive,19:00
+activity(step),2058,Mon Jun 06 19:02:13 EDT 2016,inactive,19:00
+activity(step),2104,Mon Jun 06 19:04:29 EDT 2016,inactive,19:00
+activity(step),2118,Mon Jun 06 19:06:01 EDT 2016,inactive,19:00
+activity(step),2198,Mon Jun 06 19:06:07 EDT 2016,inactive,19:00
+activity(step),2213,Mon Jun 06 19:07:09 EDT 2016,inactive,19:00
+activity(step),2349,Mon Jun 06 19:07:17 EDT 2016,inactive,19:00
+activity(step),2456,Mon Jun 06 19:08:34 EDT 2016,inactive,19:00
+activity(step),2473,Mon Jun 06 19:11:34 EDT 2016,inactive,19:00
+activity(step),2594,Mon Jun 06 19:12:34 EDT 2016,inactive,19:00
+activity(step),2595,Mon Jun 06 19:13:34 EDT 2016,inactive,19:00
+activity(step),2684,Mon Jun 06 19:13:34 EDT 2016,inactive,19:00
+activity(step),2708,Mon Jun 06 19:15:38 EDT 2016,inactive,19:00
+activity(step),2733,Mon Jun 06 19:17:38 EDT 2016,inactive,19:00
+activity(step),2831,Mon Jun 06 19:18:38 EDT 2016,inactive,19:00
+activity(step),2833,Mon Jun 06 19:19:38 EDT 2016,inactive,19:00
+activity(step),2959,Mon Jun 06 19:19:39 EDT 2016,inactive,19:00
+activity(step),2960,Mon Jun 06 19:20:51 EDT 2016,inactive,19:00
+activity(step),3042,Mon Jun 06 19:20:52 EDT 2016,inactive,19:00
+activity(step),3085,Mon Jun 06 19:21:56 EDT 2016,inactive,19:00
+activity(step),3221,Mon Jun 06 19:22:20 EDT 2016,inactive,19:00
+activity(step),3224,Mon Jun 06 19:23:26 EDT 2016,inactive,19:00
+activity(step),3316,Mon Jun 06 19:23:27 EDT 2016,inactive,19:00
+activity(step),3344,Mon Jun 06 19:24:33 EDT 2016,inactive,19:00
+activity(step),3367,Mon Jun 06 19:25:41 EDT 2016,inactive,19:00
+activity(step),3368,Mon Jun 06 19:26:41 EDT 2016,inactive,19:00
+activity(step),3482,Mon Jun 06 19:26:42 EDT 2016,inactive,19:00
+activity(step),3487,Mon Jun 06 19:27:42 EDT 2016,inactive,19:00
+activity(step),3631,Mon Jun 06 19:27:44 EDT 2016,inactive,19:00
+activity(step),3640,Mon Jun 06 19:29:01 EDT 2016,inactive,19:00
+activity(step),3765,Mon Jun 06 19:29:06 EDT 2016,inactive,19:00
+activity(step),3773,Mon Jun 06 19:30:08 EDT 2016,inactive,19:00
+activity(step),3911,Mon Jun 06 19:30:11 EDT 2016,inactive,19:00
+activity(step),3912,Mon Jun 06 19:31:17 EDT 2016,inactive,20:00
+activity(step),4024,Mon Jun 06 19:31:17 EDT 2016,inactive,20:00
+activity(step),4059,Mon Jun 06 19:37:22 EDT 2016,inactive,20:00
+activity(step),4086,Mon Jun 06 19:42:58 EDT 2016,inactive,20:00
+activity(step),4166,Mon Jun 06 19:43:58 EDT 2016,inactive,20:00
+activity(step),4179,Mon Jun 06 20:40:52 EDT 2016,inactive,21:00
+activity(step),4196,Mon Jun 06 20:49:49 EDT 2016,inactive,21:00
+activity(step),4243,Mon Jun 06 20:50:49 EDT 2016,inactive,21:00
+activity(step),4354,Mon Jun 06 20:51:18 EDT 2016,inactive,21:00
+activity(step),4359,Mon Jun 06 20:52:19 EDT 2016,inactive,21:00
+activity(step),4471,Mon Jun 06 20:52:20 EDT 2016,inactive,21:00
+activity(step),4473,Mon Jun 06 20:53:22 EDT 2016,inactive,21:00
+activity(step),4583,Mon Jun 06 20:53:23 EDT 2016,inactive,21:00
+activity(step),4586,Mon Jun 06 20:54:24 EDT 2016,inactive,21:00
+activity(step),4701,Mon Jun 06 20:54:24 EDT 2016,inactive,21:00
+activity(step),4702,Mon Jun 06 20:55:26 EDT 2016,inactive,21:00
+activity(step),4804,Mon Jun 06 20:55:26 EDT 2016,inactive,21:00
+activity(step),4933,Mon Jun 06 20:56:34 EDT 2016,inactive,21:00
+activity(step),4935,Mon Jun 06 20:57:40 EDT 2016,inactive,21:00
+activity(step),5065,Mon Jun 06 20:57:40 EDT 2016,active,21:00
+activity(step),5066,Mon Jun 06 20:58:50 EDT 2016,active,21:00
+activity(step),5200,Mon Jun 06 20:58:50 EDT 2016,active,21:00
+activity(step),5201,Mon Jun 06 21:00:01 EDT 2016,active,21:00
+activity(step),5342,Mon Jun 06 21:00:01 EDT 2016,active,21:00
+activity(step),5343,Mon Jun 06 21:01:16 EDT 2016,active,21:00
+activity(step),5458,Mon Jun 06 21:01:16 EDT 2016,active,21:00
+activity(step),5459,Mon Jun 06 21:02:17 EDT 2016,active,21:00
+activity(step),5577,Mon Jun 06 21:02:17 EDT 2016,active,21:00
+activity(step),5578,Mon Jun 06 21:03:17 EDT 2016,active,21:00
+activity(step),5703,Mon Jun 06 21:03:18 EDT 2016,active,21:00
+activity(step),5704,Mon Jun 06 21:04:25 EDT 2016,active,21:00
+activity(step),5824,Mon Jun 06 21:04:26 EDT 2016,active,21:00
+activity(step),5908,Mon Jun 06 21:05:33 EDT 2016,active,21:00
+activity(step),5909,Mon Jun 06 21:06:17 EDT 2016,active,21:00
+activity(step),6026,Mon Jun 06 21:06:17 EDT 2016,active,21:00
+activity(step),6032,Mon Jun 06 21:07:17 EDT 2016,active,21:00
+activity(step),6179,Mon Jun 06 21:07:19 EDT 2016,active,21:00
+activity(step),6336,Mon Jun 06 21:08:37 EDT 2016,active,21:00
+activity(step),6339,Mon Jun 06 21:09:58 EDT 2016,active,21:00
+activity(step),6452,Mon Jun 06 21:09:59 EDT 2016,active,21:00
+activity(step),6490,Mon Jun 06 21:11:00 EDT 2016,active,21:00
+activity(step),6618,Mon Jun 06 21:11:20 EDT 2016,active,21:00
+activity(step),6619,Mon Jun 06 21:12:24 EDT 2016,active,21:00
+activity(step),6735,Mon Jun 06 21:12:25 EDT 2016,active,21:00
+activity(step),6737,Mon Jun 06 21:13:25 EDT 2016,active,21:00
+activity(step),6894,Mon Jun 06 21:13:26 EDT 2016,active,21:00
+activity(step),6895,Mon Jun 06 21:14:49 EDT 2016,active,21:00
+activity(step),7025,Mon Jun 06 21:14:49 EDT 2016,active,21:00
+activity(step),7026,Mon Jun 06 21:15:56 EDT 2016,active,21:00
+activity(step),7145,Mon Jun 06 21:15:57 EDT 2016,active,21:00
+activity(step),7179,Mon Jun 06 21:17:00 EDT 2016,active,21:00
+activity(step),7346,Mon Jun 06 21:17:16 EDT 2016,active,21:00
+activity(step),7373,Mon Jun 06 21:18:59 EDT 2016,active,21:00
+activity(step),7386,Mon Jun 06 21:59:35 EDT 2016,active,22:00
+activity(step),7447,Mon Jun 06 22:00:42 EDT 2016,active,22:00
+activity(step),7449,Mon Jun 06 22:02:44 EDT 2016,active,22:00
+activity(step),7561,Mon Jun 06 22:02:45 EDT 2016,active,22:00
+activity(step),7586,Mon Jun 06 22:04:01 EDT 2016,active,22:00
+activity(step),7612,Mon Jun 06 22:07:18 EDT 2016,active,22:00
+activity(step),7642,Mon Jun 06 22:08:21 EDT 2016,active,22:00
+activity(step),7643,Mon Jun 06 22:09:21 EDT 2016,active,22:00
+activity(step),7670,Mon Jun 06 22:12:24 EDT 2016,active,22:00

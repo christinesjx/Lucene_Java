@@ -1,0 +1,120 @@
+light,203.0,Tue Sep 13 00:11:17 EDT 2016,less bright,0:00
+light,153.66667,Tue Sep 13 00:11:17 EDT 2016,less bright,0:00
+light,193.0,Tue Sep 13 00:35:25 EDT 2016,less bright,1:00
+light,2.0,Tue Sep 13 00:47:44 EDT 2016,dark,1:00
+light,2.0,Tue Sep 13 01:10:40 EDT 2016,dark,1:00
+light,2.0,Tue Sep 13 01:10:40 EDT 2016,dark,1:00
+light,2.0,Tue Sep 13 01:15:49 EDT 2016,dark,1:00
+light,2.0,Tue Sep 13 01:22:33 EDT 2016,dark,1:00
+light,2.0,Tue Sep 13 01:23:34 EDT 2016,dark,1:00
+light,2.0,Tue Sep 13 01:25:00 EDT 2016,dark,1:00
+light,2.0,Tue Sep 13 01:26:45 EDT 2016,dark,1:00
+light,2.0,Tue Sep 13 01:29:30 EDT 2016,dark,1:00
+light,2.0,Tue Sep 13 01:31:17 EDT 2016,dark,2:00
+light,2.0,Tue Sep 13 01:32:59 EDT 2016,dark,2:00
+light,2.0,Tue Sep 13 01:37:13 EDT 2016,dark,2:00
+light,2.0,Tue Sep 13 01:38:14 EDT 2016,dark,2:00
+light,2.0,Tue Sep 13 01:51:30 EDT 2016,dark,2:00
+light,2.0,Tue Sep 13 01:52:46 EDT 2016,dark,2:00
+light,2.0,Tue Sep 13 01:54:42 EDT 2016,dark,2:00
+light,2.0,Tue Sep 13 02:04:43 EDT 2016,dark,2:00
+light,2.0,Tue Sep 13 02:18:23 EDT 2016,dark,2:00
+light,2.0,Tue Sep 13 02:28:29 EDT 2016,dark,2:00
+light,2.0,Tue Sep 13 02:35:52 EDT 2016,dark,3:00
+light,2.0,Tue Sep 13 03:01:33 EDT 2016,dark,3:00
+light,2.0,Tue Sep 13 03:03:01 EDT 2016,dark,3:00
+light,2.0,Tue Sep 13 03:17:13 EDT 2016,dark,3:00
+light,2.0,Tue Sep 13 03:31:52 EDT 2016,dark,4:00
+light,2.0,Tue Sep 13 04:02:10 EDT 2016,dark,4:00
+light,2.0,Tue Sep 13 04:26:52 EDT 2016,dark,4:00
+light,2.0,Tue Sep 13 04:37:30 EDT 2016,dark,5:00
+light,2.0,Tue Sep 13 04:46:17 EDT 2016,dark,5:00
+light,2.0,Tue Sep 13 04:47:47 EDT 2016,dark,5:00
+light,2.0,Tue Sep 13 05:15:46 EDT 2016,dark,5:00
+light,2.0,Tue Sep 13 05:26:48 EDT 2016,dark,5:00
+light,2.0,Tue Sep 13 05:51:32 EDT 2016,dark,6:00
+light,2.0,Tue Sep 13 05:51:32 EDT 2016,dark,6:00
+light,2.0,Tue Sep 13 06:25:31 EDT 2016,dark,6:00
+light,2.0,Tue Sep 13 06:58:06 EDT 2016,dark,7:00
+light,2.0,Tue Sep 13 07:13:31 EDT 2016,dark,7:00
+light,2.0,Tue Sep 13 07:40:09 EDT 2016,dark,8:00
+light,2.0,Tue Sep 13 07:40:09 EDT 2016,dark,8:00
+light,6.3333335,Tue Sep 13 08:10:02 EDT 2016,less bright,8:00
+light,6.3333335,Tue Sep 13 08:10:57 EDT 2016,less bright,8:00
+light,3.6666667,Tue Sep 13 08:15:34 EDT 2016,dark,8:00
+light,8.0,Tue Sep 13 08:50:31 EDT 2016,less bright,9:00
+light,23.0,Tue Sep 13 10:10:19 EDT 2016,less bright,10:00
+light,39.0,Tue Sep 13 10:11:50 EDT 2016,less bright,10:00
+light,50.666668,Tue Sep 13 10:38:53 EDT 2016,less bright,11:00
+light,50.666668,Tue Sep 13 10:48:52 EDT 2016,less bright,11:00
+light,83.666664,Tue Sep 13 10:53:15 EDT 2016,less bright,11:00
+light,55.666668,Tue Sep 13 11:01:28 EDT 2016,less bright,11:00
+light,93.0,Tue Sep 13 11:01:28 EDT 2016,less bright,11:00
+light,46.666668,Tue Sep 13 11:01:58 EDT 2016,less bright,11:00
+light,109.0,Tue Sep 13 11:03:31 EDT 2016,less bright,11:00
+light,72.0,Tue Sep 13 11:27:32 EDT 2016,less bright,11:00
+light,120.666664,Tue Sep 13 11:28:32 EDT 2016,less bright,11:00
+light,123.333336,Tue Sep 13 11:28:32 EDT 2016,less bright,11:00
+light,95.0,Tue Sep 13 11:57:54 EDT 2016,less bright,12:00
+light,96.0,Tue Sep 13 11:57:55 EDT 2016,less bright,12:00
+light,146.0,Tue Sep 13 12:06:27 EDT 2016,less bright,12:00
+light,156.33333,Tue Sep 13 12:32:13 EDT 2016,less bright,13:00
+light,152.0,Tue Sep 13 12:32:13 EDT 2016,less bright,13:00
+light,171.33333,Tue Sep 13 13:21:50 EDT 2016,less bright,13:00
+light,153.33333,Tue Sep 13 13:32:48 EDT 2016,less bright,14:00
+light,151.33333,Tue Sep 13 13:55:32 EDT 2016,less bright,14:00
+light,177.0,Tue Sep 13 14:29:02 EDT 2016,less bright,14:00
+light,149.0,Tue Sep 13 14:29:44 EDT 2016,less bright,14:00
+light,172.66667,Tue Sep 13 15:04:37 EDT 2016,less bright,15:00
+light,196.0,Tue Sep 13 15:04:40 EDT 2016,less bright,15:00
+light,219.33333,Tue Sep 13 15:11:01 EDT 2016,less bright,15:00
+light,184.33333,Tue Sep 13 15:38:34 EDT 2016,less bright,16:00
+light,223.66667,Tue Sep 13 15:52:39 EDT 2016,less bright,16:00
+light,283.33334,Tue Sep 13 16:01:02 EDT 2016,less bright,16:00
+light,57.333332,Tue Sep 13 16:39:05 EDT 2016,less bright,17:00
+light,44.0,Tue Sep 13 17:06:04 EDT 2016,less bright,17:00
+light,32.0,Tue Sep 13 17:11:51 EDT 2016,less bright,17:00
+light,27.0,Tue Sep 13 17:11:51 EDT 2016,less bright,17:00
+light,115.666664,Tue Sep 13 17:33:46 EDT 2016,less bright,18:00
+light,242.33333,Tue Sep 13 17:33:46 EDT 2016,less bright,18:00
+light,94.666664,Tue Sep 13 17:37:31 EDT 2016,less bright,18:00
+light,143.66667,Tue Sep 13 18:09:09 EDT 2016,less bright,18:00
+light,121.0,Tue Sep 13 18:46:00 EDT 2016,less bright,19:00
+light,111.333336,Tue Sep 13 18:46:00 EDT 2016,less bright,19:00
+light,108.333336,Tue Sep 13 18:58:00 EDT 2016,less bright,19:00
+light,99.666664,Tue Sep 13 19:17:32 EDT 2016,less bright,19:00
+light,1285.6666,Tue Sep 13 19:17:32 EDT 2016,less bright,19:00
+light,847.0,Tue Sep 13 19:37:24 EDT 2016,less bright,20:00
+light,525.3333,Tue Sep 13 19:51:23 EDT 2016,less bright,20:00
+light,274.33334,Tue Sep 13 19:57:50 EDT 2016,less bright,20:00
+light,2060.3333,Tue Sep 13 20:02:28 EDT 2016,less bright,20:00
+light,2168.3333,Tue Sep 13 20:03:28 EDT 2016,less bright,20:00
+light,442.33334,Tue Sep 13 20:03:28 EDT 2016,less bright,20:00
+light,95.333336,Tue Sep 13 20:07:42 EDT 2016,less bright,20:00
+light,47.0,Tue Sep 13 20:09:40 EDT 2016,less bright,20:00
+light,438.66666,Tue Sep 13 20:10:42 EDT 2016,less bright,20:00
+light,72.0,Tue Sep 13 20:28:00 EDT 2016,less bright,20:00
+light,135.0,Tue Sep 13 20:28:00 EDT 2016,less bright,20:00
+light,41.666668,Tue Sep 13 20:30:58 EDT 2016,less bright,20:00
+light,45.666668,Tue Sep 13 20:35:22 EDT 2016,less bright,21:00
+light,40.0,Tue Sep 13 20:35:22 EDT 2016,less bright,21:00
+light,59.333332,Tue Sep 13 20:59:06 EDT 2016,less bright,21:00
+light,96.666664,Tue Sep 13 20:59:06 EDT 2016,less bright,21:00
+light,2027.6666,Tue Sep 13 20:59:06 EDT 2016,less bright,21:00
+light,444.66666,Tue Sep 13 21:01:29 EDT 2016,less bright,21:00
+light,40.333332,Tue Sep 13 21:06:13 EDT 2016,less bright,21:00
+light,50.666668,Tue Sep 13 21:06:13 EDT 2016,less bright,21:00
+light,73.0,Tue Sep 13 21:21:27 EDT 2016,less bright,21:00
+light,60.0,Tue Sep 13 21:21:27 EDT 2016,less bright,21:00
+light,61.0,Tue Sep 13 21:21:27 EDT 2016,less bright,21:00
+light,35.333332,Tue Sep 13 21:42:19 EDT 2016,less bright,22:00
+light,70.666664,Tue Sep 13 21:46:26 EDT 2016,less bright,22:00
+light,62.0,Tue Sep 13 21:57:41 EDT 2016,less bright,22:00
+light,16.333334,Tue Sep 13 21:57:41 EDT 2016,less bright,22:00
+light,6.3333335,Tue Sep 13 22:12:55 EDT 2016,less bright,22:00
+light,53.0,Tue Sep 13 22:54:00 EDT 2016,less bright,23:00
+light,6.3333335,Tue Sep 13 22:54:00 EDT 2016,less bright,23:00
+light,6.3333335,Tue Sep 13 23:05:04 EDT 2016,less bright,23:00
+light,15.666667,Tue Sep 13 23:05:04 EDT 2016,less bright,23:00
+light,23.333334,Tue Sep 13 23:19:04 EDT 2016,less bright,23:00
+light,38.333332,Tue Sep 13 23:27:40 EDT 2016,less bright,23:00

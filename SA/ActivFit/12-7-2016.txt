@@ -1,0 +1,13 @@
+activity,unknown,Wed Dec 07 00:00:00 EST 2016,unknown,0:00
+activity,walking,Wed Dec 07 12:10:01 EST 2016,walking,12:00
+activity,walking,Wed Dec 07 12:13:12 EST 2016,walking,12:00
+activity,unknown,Wed Dec 07 12:15:05 EST 2016,unknown,12:00
+activity,walking,Wed Dec 07 15:33:01 EST 2016,walking,16:00
+activity,unknown,Wed Dec 07 15:38:00 EST 2016,unknown,16:00
+activity,walking,Wed Dec 07 17:16:01 EST 2016,walking,17:00
+activity,walking,Wed Dec 07 17:23:00 EST 2016,walking,17:00
+activity,unknown,Wed Dec 07 17:25:01 EST 2016,unknown,17:00
+activity,walking,Wed Dec 07 17:43:13 EST 2016,walking,18:00
+activity,unknown,Wed Dec 07 17:45:01 EST 2016,unknown,18:00
+activity,walking,Wed Dec 07 19:51:39 EST 2016,walking,20:00
+activity,unknown,Wed Dec 07 19:56:01 EST 2016,unknown,20:00

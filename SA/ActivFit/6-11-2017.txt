@@ -1,0 +1,11 @@
+activity,unknown,Sun Jun 11 00:00:00 EDT 2017,unknown,0:00
+activity,walking,Sun Jun 11 00:09:45 EDT 2017,walking,0:00
+activity,unknown,Sun Jun 11 00:10:46 EDT 2017,unknown,0:00
+activity,walking,Sun Jun 11 14:46:28 EDT 2017,walking,15:00
+activity,unknown,Sun Jun 11 14:47:47 EDT 2017,unknown,15:00
+activity,walking,Sun Jun 11 15:27:00 EDT 2017,walking,15:00
+activity,unknown,Sun Jun 11 15:28:01 EDT 2017,unknown,15:00
+activity,walking,Sun Jun 11 18:58:17 EDT 2017,walking,19:00
+activity,unknown,Sun Jun 11 18:59:26 EDT 2017,unknown,19:00
+activity,walking,Sun Jun 11 19:01:54 EDT 2017,walking,19:00
+activity,unknown,Sun Jun 11 19:03:58 EDT 2017,unknown,19:00

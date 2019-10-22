@@ -1,0 +1,10 @@
+bt,Disconnected,Sat May 20 08:23:52 EDT 2017,Disconnected,8:00
+bt,Connected,Sat May 20 08:24:00 EDT 2017,Connected,8:00
+bt,Disconnected,Sat May 20 08:25:43 EDT 2017,Disconnected,8:00
+bt,Connected,Sat May 20 08:27:10 EDT 2017,Connected,8:00
+bt,Disconnected,Sat May 20 08:29:00 EDT 2017,Disconnected,8:00
+bt,Connected,Sat May 20 08:30:06 EDT 2017,Connected,8:00
+bt,Disconnected,Sat May 20 08:30:52 EDT 2017,Disconnected,8:00
+bt,Connected,Sat May 20 08:31:25 EDT 2017,Connected,9:00
+bt,Disconnected,Sat May 20 23:31:11 EDT 2017,Disconnected,0:00
+bt,Connected,Sat May 20 23:32:06 EDT 2017,Connected,0:00

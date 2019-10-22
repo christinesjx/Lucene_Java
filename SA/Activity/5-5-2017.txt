@@ -1,0 +1,39 @@
+activity(step),12,Fri May 05 12:42:09 EDT 2017,very inactive,13:00
+activity(step),31,Fri May 05 12:43:09 EDT 2017,very inactive,13:00
+activity(step),59,Fri May 05 12:54:38 EDT 2017,very inactive,13:00
+activity(step),149,Fri May 05 12:58:38 EDT 2017,very inactive,13:00
+activity(step),183,Fri May 05 13:03:53 EDT 2017,very inactive,13:00
+activity(step),219,Fri May 05 13:26:26 EDT 2017,very inactive,13:00
+activity(step),311,Fri May 05 13:27:38 EDT 2017,very inactive,13:00
+activity(step),323,Fri May 05 13:38:07 EDT 2017,very inactive,14:00
+activity(step),454,Fri May 05 13:39:07 EDT 2017,very inactive,14:00
+activity(step),477,Fri May 05 13:40:38 EDT 2017,very inactive,14:00
+activity(step),490,Fri May 05 13:46:01 EDT 2017,very inactive,14:00
+activity(step),514,Fri May 05 13:53:01 EDT 2017,very inactive,14:00
+activity(step),529,Fri May 05 13:54:38 EDT 2017,very inactive,14:00
+activity(step),545,Fri May 05 13:57:35 EDT 2017,very inactive,14:00
+activity(step),559,Fri May 05 16:17:02 EDT 2017,very inactive,16:00
+activity(step),580,Fri May 05 16:18:02 EDT 2017,very inactive,16:00
+activity(step),599,Fri May 05 16:20:42 EDT 2017,very inactive,16:00
+activity(step),617,Fri May 05 16:22:38 EDT 2017,very inactive,16:00
+activity(step),635,Fri May 05 16:26:01 EDT 2017,very inactive,16:00
+activity(step),650,Fri May 05 16:34:01 EDT 2017,very inactive,17:00
+activity(step),669,Fri May 05 16:35:01 EDT 2017,very inactive,17:00
+activity(step),725,Fri May 05 16:56:09 EDT 2017,very inactive,17:00
+activity(step),737,Fri May 05 17:18:42 EDT 2017,very inactive,17:00
+activity(step),758,Fri May 05 17:21:15 EDT 2017,very inactive,17:00
+activity(step),771,Fri May 05 17:24:21 EDT 2017,very inactive,17:00
+activity(step),794,Fri May 05 17:29:58 EDT 2017,very inactive,17:00
+activity(step),811,Fri May 05 17:49:34 EDT 2017,very inactive,18:00
+activity(step),852,Fri May 05 18:05:39 EDT 2017,very inactive,18:00
+activity(step),866,Fri May 05 18:37:39 EDT 2017,very inactive,19:00
+activity(step),902,Fri May 05 19:10:26 EDT 2017,very inactive,19:00
+activity(step),917,Fri May 05 19:16:06 EDT 2017,very inactive,19:00
+activity(step),930,Fri May 05 19:17:06 EDT 2017,very inactive,19:00
+activity(step),970,Fri May 05 19:17:14 EDT 2017,very inactive,19:00
+activity(step),987,Fri May 05 20:20:01 EDT 2017,very inactive,20:00
+activity(step),1016,Fri May 05 20:47:01 EDT 2017,inactive,21:00
+activity(step),1033,Fri May 05 20:58:01 EDT 2017,inactive,21:00
+activity(step),1051,Fri May 05 21:00:01 EDT 2017,inactive,21:00
+activity(step),1054,Fri May 05 21:01:01 EDT 2017,inactive,21:00
+activity(step),1137,Fri May 05 22:22:15 EDT 2017,inactive,22:00

@@ -1,0 +1,11 @@
+{"sensor_name":"HeartRate","timestamp":"Tue Sep 13 15:46:05 EDT 2016","sensor_data":{"bpm":77}}
+{"sensor_name":"HeartRate","timestamp":"Tue Sep 13 16:20:36 EDT 2016","sensor_data":{"bpm":74}}
+{"sensor_name":"HeartRate","timestamp":"Tue Sep 13 17:05:37 EDT 2016","sensor_data":{"bpm":58}}
+{"sensor_name":"HeartRate","timestamp":"Tue Sep 13 17:43:35 EDT 2016","sensor_data":{"bpm":89}}
+{"sensor_name":"HeartRate","timestamp":"Tue Sep 13 18:22:03 EDT 2016","sensor_data":{"bpm":73}}
+{"sensor_name":"HeartRate","timestamp":"Tue Sep 13 19:00:48 EDT 2016","sensor_data":{"bpm":66}}
+{"sensor_name":"HeartRate","timestamp":"Tue Sep 13 19:31:03 EDT 2016","sensor_data":{"bpm":109}}
+{"sensor_name":"HeartRate","timestamp":"Tue Sep 13 20:10:43 EDT 2016","sensor_data":{"bpm":94}}
+{"sensor_name":"HeartRate","timestamp":"Tue Sep 13 20:46:04 EDT 2016","sensor_data":{"bpm":91}}
+{"sensor_name":"HeartRate","timestamp":"Tue Sep 13 21:23:35 EDT 2016","sensor_data":{"bpm":60}}
+{"sensor_name":"HeartRate","timestamp":"Tue Sep 13 21:55:37 EDT 2016","sensor_data":{"bpm":81}}

@@ -1,0 +1,4 @@
+bt,Disconnected,Wed Dec 07 22:10:16 EST 2016,Disconnected,22:00
+bt,Connected,Wed Dec 07 22:10:35 EST 2016,Connected,22:00
+bt,Disconnected,Wed Dec 07 22:30:59 EST 2016,Disconnected,22:00
+bt,Connected,Wed Dec 07 22:32:05 EST 2016,Connected,23:00

@@ -1,0 +1,65 @@
+activity(step),24,Thu Oct 13 07:52:01 EDT 2016,very inactive,8:00
+activity(step),38,Thu Oct 13 08:05:01 EDT 2016,very inactive,8:00
+activity(step),78,Thu Oct 13 08:06:01 EDT 2016,very inactive,8:00
+activity(step),187,Thu Oct 13 09:03:23 EDT 2016,very inactive,9:00
+activity(step),322,Thu Oct 13 09:07:01 EDT 2016,very inactive,9:00
+activity(step),338,Thu Oct 13 10:45:01 EDT 2016,very inactive,11:00
+activity(step),366,Thu Oct 13 10:56:01 EDT 2016,very inactive,11:00
+activity(step),439,Thu Oct 13 10:57:01 EDT 2016,very inactive,11:00
+activity(step),457,Thu Oct 13 11:03:01 EDT 2016,very inactive,11:00
+activity(step),526,Thu Oct 13 11:04:43 EDT 2016,very inactive,11:00
+activity(step),536,Thu Oct 13 11:07:01 EDT 2016,very inactive,11:00
+activity(step),624,Thu Oct 13 11:08:01 EDT 2016,very inactive,11:00
+activity(step),716,Thu Oct 13 11:09:01 EDT 2016,very inactive,11:00
+activity(step),823,Thu Oct 13 11:10:01 EDT 2016,very inactive,11:00
+activity(step),881,Thu Oct 13 11:12:01 EDT 2016,very inactive,11:00
+activity(step),899,Thu Oct 13 11:12:59 EDT 2016,very inactive,11:00
+activity(step),921,Thu Oct 13 13:00:01 EDT 2016,very inactive,13:00
+activity(step),935,Thu Oct 13 13:03:01 EDT 2016,very inactive,13:00
+activity(step),1176,Thu Oct 13 13:04:01 EDT 2016,inactive,13:00
+activity(step),1412,Thu Oct 13 13:06:01 EDT 2016,inactive,13:00
+activity(step),1413,Thu Oct 13 13:08:01 EDT 2016,inactive,13:00
+activity(step),1671,Thu Oct 13 13:09:01 EDT 2016,inactive,13:00
+activity(step),1733,Thu Oct 13 13:10:29 EDT 2016,inactive,13:00
+activity(step),1887,Thu Oct 13 13:11:01 EDT 2016,inactive,13:00
+activity(step),1949,Thu Oct 13 13:12:24 EDT 2016,inactive,13:00
+activity(step),2075,Thu Oct 13 13:12:59 EDT 2016,inactive,13:00
+activity(step),2191,Thu Oct 13 13:13:59 EDT 2016,inactive,13:00
+activity(step),2310,Thu Oct 13 13:15:01 EDT 2016,inactive,13:00
+activity(step),2370,Thu Oct 13 13:26:01 EDT 2016,inactive,13:00
+activity(step),2407,Thu Oct 13 13:28:01 EDT 2016,inactive,13:00
+activity(step),2468,Thu Oct 13 14:46:59 EDT 2016,inactive,15:00
+activity(step),2480,Thu Oct 13 14:49:27 EDT 2016,inactive,15:00
+activity(step),2493,Thu Oct 13 14:50:27 EDT 2016,inactive,15:00
+activity(step),2518,Thu Oct 13 15:02:24 EDT 2016,inactive,15:00
+activity(step),2531,Thu Oct 13 15:05:05 EDT 2016,inactive,15:00
+activity(step),2533,Thu Oct 13 15:06:05 EDT 2016,inactive,15:00
+activity(step),2560,Thu Oct 13 15:07:00 EDT 2016,inactive,15:00
+activity(step),2604,Thu Oct 13 15:26:32 EDT 2016,inactive,15:00
+activity(step),2721,Thu Oct 13 15:28:00 EDT 2016,inactive,15:00
+activity(step),2828,Thu Oct 13 15:28:57 EDT 2016,inactive,15:00
+activity(step),2954,Thu Oct 13 15:29:57 EDT 2016,inactive,15:00
+activity(step),3034,Thu Oct 13 15:31:01 EDT 2016,inactive,16:00
+activity(step),3055,Thu Oct 13 15:32:33 EDT 2016,inactive,16:00
+activity(step),3238,Thu Oct 13 15:33:33 EDT 2016,inactive,16:00
+activity(step),3289,Thu Oct 13 15:35:01 EDT 2016,inactive,16:00
+activity(step),3379,Thu Oct 13 15:36:12 EDT 2016,inactive,16:00
+activity(step),3481,Thu Oct 13 15:37:01 EDT 2016,inactive,16:00
+activity(step),3635,Thu Oct 13 15:39:48 EDT 2016,inactive,16:00
+activity(step),3667,Thu Oct 13 15:41:01 EDT 2016,inactive,16:00
+activity(step),3795,Thu Oct 13 15:41:16 EDT 2016,inactive,16:00
+activity(step),3937,Thu Oct 13 15:42:17 EDT 2016,inactive,16:00
+activity(step),4046,Thu Oct 13 15:43:27 EDT 2016,inactive,16:00
+activity(step),4170,Thu Oct 13 15:44:44 EDT 2016,inactive,16:00
+activity(step),4330,Thu Oct 13 15:46:01 EDT 2016,inactive,16:00
+activity(step),4507,Thu Oct 13 15:47:19 EDT 2016,inactive,16:00
+activity(step),4523,Thu Oct 13 15:49:01 EDT 2016,inactive,16:00
+activity(step),4573,Thu Oct 13 18:15:21 EDT 2016,inactive,18:00
+activity(step),4628,Thu Oct 13 18:17:01 EDT 2016,inactive,18:00
+activity(step),4640,Thu Oct 13 18:28:45 EDT 2016,inactive,18:00
+activity(step),4709,Thu Oct 13 18:29:45 EDT 2016,inactive,18:00
+activity(step),4746,Thu Oct 13 18:32:05 EDT 2016,inactive,19:00
+activity(step),4768,Thu Oct 13 19:56:01 EDT 2016,inactive,20:00
+activity(step),4783,Thu Oct 13 20:04:01 EDT 2016,inactive,20:00
+activity(step),4797,Thu Oct 13 20:09:01 EDT 2016,inactive,20:00
+activity(step),4810,Thu Oct 13 21:46:58 EDT 2016,inactive,22:00

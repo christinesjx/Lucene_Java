@@ -1,0 +1,8 @@
+{"sensor_name":"HeartRate","timestamp":"Sun Mar 12 19:09:41 EDT 2017","sensor_data":{"bpm":79}}
+{"sensor_name":"HeartRate","timestamp":"Sun Mar 12 19:44:00 EDT 2017","sensor_data":{"bpm":77}}
+{"sensor_name":"HeartRate","timestamp":"Sun Mar 12 20:19:19 EDT 2017","sensor_data":{"bpm":77}}
+{"sensor_name":"HeartRate","timestamp":"Sun Mar 12 20:59:14 EDT 2017","sensor_data":{"bpm":60}}
+{"sensor_name":"HeartRate","timestamp":"Sun Mar 12 21:44:06 EDT 2017","sensor_data":{"bpm":81}}
+{"sensor_name":"HeartRate","timestamp":"Sun Mar 12 22:19:13 EDT 2017","sensor_data":{"bpm":71}}
+{"sensor_name":"HeartRate","timestamp":"Sun Mar 12 22:59:13 EDT 2017","sensor_data":{"bpm":86}}
+{"sensor_name":"HeartRate","timestamp":"Sun Mar 12 23:42:33 EDT 2017","sensor_data":{"bpm":69}}

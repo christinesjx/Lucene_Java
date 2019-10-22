@@ -1,0 +1,9 @@
+activity(step),54,Fri Jan 13 11:41:12 EST 2017,very inactive,12:00
+activity(step),68,Fri Jan 13 11:43:00 EST 2017,very inactive,12:00
+activity(step),82,Fri Jan 13 12:04:32 EST 2017,very inactive,12:00
+activity(step),95,Fri Jan 13 13:02:30 EST 2017,very inactive,13:00
+activity(step),108,Fri Jan 13 15:34:40 EST 2017,very inactive,16:00
+activity(step),130,Fri Jan 13 17:06:00 EST 2017,very inactive,17:00
+activity(step),144,Fri Jan 13 17:34:40 EST 2017,very inactive,18:00
+activity(step),156,Fri Jan 13 19:04:01 EST 2017,very inactive,19:00
+activity(step),179,Fri Jan 13 20:01:01 EST 2017,very inactive,20:00

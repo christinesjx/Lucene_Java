@@ -1,0 +1,3 @@
+activity(step),114,Tue May 30 15:44:06 EDT 2017,very inactive,16:00
+activity(step),144,Tue May 30 17:35:37 EDT 2017,very inactive,18:00
+activity(step),171,Tue May 30 17:38:01 EDT 2017,very inactive,18:00

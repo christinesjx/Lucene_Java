@@ -1,0 +1,16 @@
+bt,Disconnected,Wed Feb 08 09:13:04 EST 2017,Disconnected,9:00
+bt,Connected,Wed Feb 08 09:13:08 EST 2017,Connected,9:00
+bt,Disconnected,Wed Feb 08 09:14:31 EST 2017,Disconnected,9:00
+bt,Connected,Wed Feb 08 09:14:50 EST 2017,Connected,9:00
+bt,Disconnected,Wed Feb 08 09:18:03 EST 2017,Disconnected,9:00
+bt,Connected,Wed Feb 08 09:18:03 EST 2017,Connected,9:00
+bt,Disconnected,Wed Feb 08 09:20:34 EST 2017,Disconnected,9:00
+bt,Connected,Wed Feb 08 09:20:35 EST 2017,Connected,9:00
+bt,Disconnected,Wed Feb 08 09:23:08 EST 2017,Disconnected,9:00
+bt,Connected,Wed Feb 08 09:23:38 EST 2017,Connected,9:00
+bt,Disconnected,Wed Feb 08 09:25:10 EST 2017,Disconnected,9:00
+bt,Connected,Wed Feb 08 09:25:45 EST 2017,Connected,9:00
+bt,Disconnected,Wed Feb 08 09:40:52 EST 2017,Disconnected,10:00
+bt,Connected,Wed Feb 08 09:41:07 EST 2017,Connected,10:00
+bt,Disconnected,Wed Feb 08 09:44:25 EST 2017,Disconnected,10:00
+bt,Connected,Wed Feb 08 09:44:38 EST 2017,Connected,10:00

@@ -1,0 +1,30 @@
+activity(step),16,Tue Mar 28 00:38:58 EDT 2017,very inactive,1:00
+activity(step),30,Tue Mar 28 00:40:23 EDT 2017,very inactive,1:00
+activity(step),40,Tue Mar 28 00:41:23 EDT 2017,very inactive,1:00
+activity(step),62,Tue Mar 28 11:59:25 EDT 2017,very inactive,12:00
+activity(step),93,Tue Mar 28 12:00:25 EDT 2017,very inactive,12:00
+activity(step),108,Tue Mar 28 12:19:43 EDT 2017,very inactive,12:00
+activity(step),125,Tue Mar 28 17:15:01 EDT 2017,very inactive,17:00
+activity(step),137,Tue Mar 28 17:33:54 EDT 2017,very inactive,18:00
+activity(step),147,Tue Mar 28 17:34:54 EDT 2017,very inactive,18:00
+activity(step),162,Tue Mar 28 18:03:36 EDT 2017,very inactive,18:00
+activity(step),188,Tue Mar 28 18:05:27 EDT 2017,very inactive,18:00
+activity(step),219,Tue Mar 28 18:08:22 EDT 2017,very inactive,18:00
+activity(step),221,Tue Mar 28 18:09:24 EDT 2017,very inactive,18:00
+activity(step),331,Tue Mar 28 18:09:26 EDT 2017,very inactive,18:00
+activity(step),352,Tue Mar 28 18:15:59 EDT 2017,very inactive,18:00
+activity(step),378,Tue Mar 28 18:16:59 EDT 2017,very inactive,18:00
+activity(step),450,Tue Mar 28 18:20:36 EDT 2017,very inactive,18:00
+activity(step),543,Tue Mar 28 18:23:00 EDT 2017,very inactive,18:00
+activity(step),559,Tue Mar 28 18:26:12 EDT 2017,very inactive,18:00
+activity(step),597,Tue Mar 28 18:27:12 EDT 2017,very inactive,18:00
+activity(step),602,Tue Mar 28 18:28:22 EDT 2017,very inactive,18:00
+activity(step),623,Tue Mar 28 20:47:00 EDT 2017,very inactive,21:00
+activity(step),640,Tue Mar 28 21:25:00 EDT 2017,very inactive,21:00
+activity(step),665,Tue Mar 28 21:26:49 EDT 2017,very inactive,21:00
+activity(step),675,Tue Mar 28 21:27:49 EDT 2017,very inactive,21:00
+activity(step),789,Tue Mar 28 21:27:55 EDT 2017,very inactive,21:00
+activity(step),807,Tue Mar 28 22:02:00 EDT 2017,very inactive,22:00
+activity(step),914,Tue Mar 28 22:03:00 EDT 2017,very inactive,22:00
+activity(step),1004,Tue Mar 28 22:04:00 EDT 2017,inactive,22:00
+activity(step),1032,Tue Mar 28 22:15:00 EDT 2017,inactive,22:00

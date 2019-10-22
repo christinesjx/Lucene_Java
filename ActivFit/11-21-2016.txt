@@ -1,0 +1,9 @@
+{"sensor_name":"Activity","timestamp":{"start_time":"Mon Nov 21 00:00:00 EST 2016","end_time":"Mon Nov 21 11:11:01 EST 2016"},"sensor_data":{"activity":"unknown","duration":40261761}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Mon Nov 21 11:11:01 EST 2016","end_time":"Mon Nov 21 11:18:01 EST 2016"},"sensor_data":{"activity":"walking","duration":419532}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Mon Nov 21 11:18:01 EST 2016","end_time":"Mon Nov 21 16:26:02 EST 2016"},"sensor_data":{"activity":"unknown","duration":18480545}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Mon Nov 21 16:26:02 EST 2016","end_time":"Mon Nov 21 16:31:01 EST 2016"},"sensor_data":{"activity":"walking","duration":299371}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Mon Nov 21 16:31:01 EST 2016","end_time":"Mon Nov 21 17:46:01 EST 2016"},"sensor_data":{"activity":"unknown","duration":4500026}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Mon Nov 21 17:46:01 EST 2016","end_time":"Mon Nov 21 17:55:04 EST 2016"},"sensor_data":{"activity":"walking","duration":543528}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Mon Nov 21 17:55:04 EST 2016","end_time":"Mon Nov 21 20:51:06 EST 2016"},"sensor_data":{"activity":"unknown","duration":10561081}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Mon Nov 21 20:51:06 EST 2016","end_time":"Mon Nov 21 21:01:01 EST 2016"},"sensor_data":{"activity":"walking","duration":595634}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Mon Nov 21 21:01:01 EST 2016","end_time":"Mon Nov 21 22:22:06 EST 2016"},"sensor_data":{"activity":"unknown","duration":4864521}}

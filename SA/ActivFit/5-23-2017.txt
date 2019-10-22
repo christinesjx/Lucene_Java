@@ -1,0 +1,3 @@
+activity,unknown,Tue May 23 00:00:00 EDT 2017,unknown,0:00
+activity,walking,Tue May 23 10:19:12 EDT 2017,walking,10:00
+activity,unknown,Tue May 23 10:21:00 EDT 2017,unknown,10:00

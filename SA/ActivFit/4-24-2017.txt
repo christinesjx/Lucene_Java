@@ -1,0 +1,3 @@
+activity,unknown,Mon Apr 24 00:00:00 EDT 2017,unknown,0:00
+activity,strength_training,Mon Apr 24 18:00:59 EDT 2017,strength_training,18:00
+activity,unknown,Mon Apr 24 18:02:30 EDT 2017,unknown,18:00

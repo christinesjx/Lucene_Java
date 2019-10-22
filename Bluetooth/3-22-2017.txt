@@ -1,0 +1,2 @@
+{"sensor_name":"BT","timestamp":"Wed Mar 22 08:31:25 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Wed Mar 22 08:31:43 EDT 2017","sensor_data":{"state":"Connected"}}

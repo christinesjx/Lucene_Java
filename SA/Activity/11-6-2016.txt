@@ -1,0 +1,38 @@
+activity(step),19,Sun Nov 06 10:31:56 EST 2016,very inactive,11:00
+activity(step),31,Sun Nov 06 10:33:01 EST 2016,very inactive,11:00
+activity(step),44,Sun Nov 06 11:07:44 EST 2016,very inactive,11:00
+activity(step),69,Sun Nov 06 11:09:01 EST 2016,very inactive,11:00
+activity(step),90,Sun Nov 06 11:10:01 EST 2016,very inactive,11:00
+activity(step),114,Sun Nov 06 11:12:01 EST 2016,very inactive,11:00
+activity(step),127,Sun Nov 06 11:14:19 EST 2016,very inactive,11:00
+activity(step),169,Sun Nov 06 13:20:37 EST 2016,very inactive,13:00
+activity(step),284,Sun Nov 06 13:22:01 EST 2016,very inactive,13:00
+activity(step),300,Sun Nov 06 13:23:01 EST 2016,very inactive,13:00
+activity(step),419,Sun Nov 06 13:23:09 EST 2016,very inactive,13:00
+activity(step),470,Sun Nov 06 13:33:19 EST 2016,very inactive,14:00
+activity(step),528,Sun Nov 06 13:35:01 EST 2016,very inactive,14:00
+activity(step),545,Sun Nov 06 13:36:01 EST 2016,very inactive,14:00
+activity(step),547,Sun Nov 06 13:37:01 EST 2016,very inactive,14:00
+activity(step),584,Sun Nov 06 14:49:47 EST 2016,very inactive,15:00
+activity(step),706,Sun Nov 06 14:51:01 EST 2016,very inactive,15:00
+activity(step),724,Sun Nov 06 14:54:01 EST 2016,very inactive,15:00
+activity(step),741,Sun Nov 06 14:55:02 EST 2016,very inactive,15:00
+activity(step),747,Sun Nov 06 14:56:02 EST 2016,very inactive,15:00
+activity(step),763,Sun Nov 06 15:30:01 EST 2016,very inactive,15:00
+activity(step),775,Sun Nov 06 16:00:29 EST 2016,very inactive,16:00
+activity(step),790,Sun Nov 06 17:17:24 EST 2016,very inactive,17:00
+activity(step),864,Sun Nov 06 17:18:33 EST 2016,very inactive,17:00
+activity(step),898,Sun Nov 06 17:32:45 EST 2016,very inactive,18:00
+activity(step),929,Sun Nov 06 17:34:38 EST 2016,very inactive,18:00
+activity(step),942,Sun Nov 06 17:35:40 EST 2016,very inactive,18:00
+activity(step),954,Sun Nov 06 17:38:03 EST 2016,very inactive,18:00
+activity(step),972,Sun Nov 06 17:39:03 EST 2016,very inactive,18:00
+activity(step),987,Sun Nov 06 18:20:01 EST 2016,very inactive,18:00
+activity(step),1000,Sun Nov 06 18:23:01 EST 2016,inactive,18:00
+activity(step),1028,Sun Nov 06 18:42:00 EST 2016,inactive,19:00
+activity(step),1085,Sun Nov 06 18:44:07 EST 2016,inactive,19:00
+activity(step),1104,Sun Nov 06 20:45:01 EST 2016,inactive,21:00
+activity(step),1117,Sun Nov 06 21:08:00 EST 2016,inactive,21:00
+activity(step),1143,Sun Nov 06 21:09:00 EST 2016,inactive,21:00
+activity(step),1155,Sun Nov 06 21:45:01 EST 2016,inactive,22:00
+activity(step),1185,Sun Nov 06 21:54:00 EST 2016,inactive,22:00

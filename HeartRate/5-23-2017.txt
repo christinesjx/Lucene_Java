@@ -1,0 +1,4 @@
+{"sensor_name":"HeartRate","timestamp":"Tue May 23 09:09:28 EDT 2017","sensor_data":{"bpm":102}}
+{"sensor_name":"HeartRate","timestamp":"Tue May 23 09:49:16 EDT 2017","sensor_data":{"bpm":83}}
+{"sensor_name":"HeartRate","timestamp":"Tue May 23 10:29:17 EDT 2017","sensor_data":{"bpm":90}}
+{"sensor_name":"HeartRate","timestamp":"Tue May 23 10:59:26 EDT 2017","sensor_data":{"bpm":85}}

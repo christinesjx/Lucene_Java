@@ -1,0 +1,2 @@
+activity(step),19,Sun Feb 19 21:26:01 EST 2017,very inactive,21:00
+activity(step),55,Sun Feb 19 21:30:47 EST 2017,very inactive,21:00

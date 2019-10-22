@@ -1,0 +1,16 @@
+activity,unknown,Thu Mar 23 00:00:00 EDT 2017,unknown,0:00
+activity,walking,Thu Mar 23 11:48:01 EDT 2017,walking,12:00
+activity,unknown,Thu Mar 23 11:49:40 EDT 2017,unknown,12:00
+activity,walking,Thu Mar 23 13:53:00 EDT 2017,walking,14:00
+activity,unknown,Thu Mar 23 13:56:00 EDT 2017,unknown,14:00
+activity,walking,Thu Mar 23 15:23:03 EDT 2017,walking,15:00
+activity,unknown,Thu Mar 23 15:25:57 EDT 2017,unknown,15:00
+activity,walking,Thu Mar 23 17:01:16 EDT 2017,walking,17:00
+activity,walking,Thu Mar 23 17:03:54 EDT 2017,walking,17:00
+activity,unknown,Thu Mar 23 17:05:00 EDT 2017,unknown,17:00
+activity,walking,Thu Mar 23 17:57:20 EDT 2017,walking,18:00
+activity,unknown,Thu Mar 23 17:59:23 EDT 2017,unknown,18:00
+activity,walking,Thu Mar 23 18:01:00 EDT 2017,walking,18:00
+activity,unknown,Thu Mar 23 18:02:22 EDT 2017,unknown,18:00
+activity,walking,Thu Mar 23 18:17:55 EDT 2017,walking,18:00
+activity,unknown,Thu Mar 23 18:19:00 EDT 2017,unknown,18:00

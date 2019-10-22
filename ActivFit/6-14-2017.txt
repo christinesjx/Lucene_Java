@@ -1,0 +1,12 @@
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Jun 14 00:00:00 EDT 2017","end_time":"Wed Jun 14 12:11:00 EDT 2017"},"sensor_data":{"activity":"unknown","duration":43860135}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Jun 14 12:11:00 EDT 2017","end_time":"Wed Jun 14 12:12:04 EDT 2017"},"sensor_data":{"activity":"walking","duration":64369}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Jun 14 12:12:04 EDT 2017","end_time":"Wed Jun 14 13:15:28 EDT 2017"},"sensor_data":{"activity":"unknown","duration":3803307}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Jun 14 13:15:28 EDT 2017","end_time":"Wed Jun 14 13:16:30 EDT 2017"},"sensor_data":{"activity":"walking","duration":62783}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Jun 14 13:16:30 EDT 2017","end_time":"Wed Jun 14 14:55:00 EDT 2017"},"sensor_data":{"activity":"unknown","duration":5909598}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Jun 14 14:55:00 EDT 2017","end_time":"Wed Jun 14 14:56:00 EDT 2017"},"sensor_data":{"activity":"walking","duration":60000}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Jun 14 14:56:00 EDT 2017","end_time":"Wed Jun 14 15:55:22 EDT 2017"},"sensor_data":{"activity":"unknown","duration":3562319}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Jun 14 15:55:22 EDT 2017","end_time":"Wed Jun 14 15:57:05 EDT 2017"},"sensor_data":{"activity":"walking","duration":102702}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Jun 14 15:57:05 EDT 2017","end_time":"Wed Jun 14 19:31:54 EDT 2017"},"sensor_data":{"activity":"unknown","duration":12888486}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Jun 14 19:31:54 EDT 2017","end_time":"Wed Jun 14 19:32:59 EDT 2017"},"sensor_data":{"activity":"walking","duration":65778}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Jun 14 19:33:04 EDT 2017","end_time":"Wed Jun 14 19:35:24 EDT 2017"},"sensor_data":{"activity":"walking","duration":140446}}
+{"sensor_name":"Activity","timestamp":{"start_time":"Wed Jun 14 19:35:24 EDT 2017","end_time":"Wed Jun 14 23:31:08 EDT 2017"},"sensor_data":{"activity":"unknown","duration":14143598}}

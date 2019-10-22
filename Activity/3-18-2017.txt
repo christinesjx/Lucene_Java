@@ -1,0 +1,9 @@
+{"sensor_name":"Activity","timestamp":"Sat Mar 18 23:52:45 EDT 2017","time_stamp":"Sat Mar 18 23:52:45 EDT 2017","sensor_data":{"step_counts":14,"step_delta":14}}
+{"sensor_name":"Activity","timestamp":"Sat Mar 18 23:52:45 EDT 2017","time_stamp":"Sat Mar 18 23:52:45 EDT 2017","sensor_data":{"step_counts":28,"step_delta":14}}
+{"sensor_name":"Activity","timestamp":"Sat Mar 18 23:52:45 EDT 2017","time_stamp":"Sat Mar 18 23:52:45 EDT 2017","sensor_data":{"step_counts":49,"step_delta":21}}
+{"sensor_name":"Activity","timestamp":"Sat Mar 18 23:52:45 EDT 2017","time_stamp":"Sat Mar 18 23:52:45 EDT 2017","sensor_data":{"step_counts":66,"step_delta":17}}
+{"sensor_name":"Activity","timestamp":"Sat Mar 18 23:52:45 EDT 2017","time_stamp":"Sat Mar 18 23:52:45 EDT 2017","sensor_data":{"step_counts":78,"step_delta":12}}
+{"sensor_name":"Activity","timestamp":"Sat Mar 18 23:52:45 EDT 2017","time_stamp":"Sat Mar 18 23:52:45 EDT 2017","sensor_data":{"step_counts":89,"step_delta":11}}
+{"sensor_name":"Activity","timestamp":"Sat Mar 18 23:52:45 EDT 2017","time_stamp":"Sat Mar 18 23:52:45 EDT 2017","sensor_data":{"step_counts":109,"step_delta":20}}
+{"sensor_name":"Activity","timestamp":"Sat Mar 18 23:52:45 EDT 2017","time_stamp":"Sat Mar 18 23:52:45 EDT 2017","sensor_data":{"step_counts":123,"step_delta":14}}
+{"sensor_name":"Activity","timestamp":"Sat Mar 18 23:52:45 EDT 2017","time_stamp":"Sat Mar 18 23:52:45 EDT 2017","sensor_data":{"step_counts":139,"step_delta":16}}

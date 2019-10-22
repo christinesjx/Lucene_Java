@@ -1,0 +1,4 @@
+bt,Disconnected,Sat Feb 25 22:33:10 EST 2017,Disconnected,23:00
+bt,Connected,Sat Feb 25 22:33:23 EST 2017,Connected,23:00
+bt,Disconnected,Sat Feb 25 22:33:32 EST 2017,Disconnected,23:00
+bt,Connected,Sat Feb 25 22:50:37 EST 2017,Connected,23:00

@@ -1,0 +1,10 @@
+activity,unknown,Mon Feb 06 00:00:00 EST 2017,unknown,0:00
+activity,walking,Mon Feb 06 11:13:50 EST 2017,walking,11:00
+activity,unknown,Mon Feb 06 11:14:53 EST 2017,unknown,11:00
+activity,walking,Mon Feb 06 11:26:01 EST 2017,walking,11:00
+activity,unknown,Mon Feb 06 11:27:28 EST 2017,unknown,11:00
+activity,walking,Mon Feb 06 11:37:01 EST 2017,walking,12:00
+activity,walking,Mon Feb 06 11:38:49 EST 2017,walking,12:00
+activity,unknown,Mon Feb 06 11:41:01 EST 2017,unknown,12:00
+activity,walking,Mon Feb 06 19:52:20 EST 2017,walking,20:00
+activity,unknown,Mon Feb 06 19:53:55 EST 2017,unknown,20:00

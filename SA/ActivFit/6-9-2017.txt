@@ -1,0 +1,5 @@
+activity,unknown,Fri Jun 09 00:00:00 EDT 2017,unknown,0:00
+activity,walking,Fri Jun 09 11:09:25 EDT 2017,walking,11:00
+activity,unknown,Fri Jun 09 11:10:45 EDT 2017,unknown,11:00
+activity,walking,Fri Jun 09 13:02:33 EDT 2017,walking,13:00
+activity,unknown,Fri Jun 09 13:03:41 EDT 2017,unknown,13:00

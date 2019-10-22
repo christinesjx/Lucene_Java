@@ -1,0 +1,4 @@
+activity,unknown,Tue Jun 06 00:00:00 EDT 2017,unknown,0:00
+activity,unknown,Tue Jun 06 18:34:37 EDT 2017,unknown,19:00
+activity,walking,Tue Jun 06 18:54:01 EDT 2017,walking,19:00
+activity,unknown,Tue Jun 06 18:57:07 EDT 2017,unknown,19:00

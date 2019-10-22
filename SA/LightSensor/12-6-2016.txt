@@ -1,0 +1,59 @@
+light,16.333334,Tue Dec 06 00:20:01 EST 2016,less bright,0:00
+light,2.0,Tue Dec 06 00:20:02 EST 2016,dark,0:00
+light,37.0,Tue Dec 06 01:54:13 EST 2016,less bright,2:00
+light,2.0,Tue Dec 06 03:58:40 EST 2016,dark,4:00
+light,2.0,Tue Dec 06 04:58:42 EST 2016,dark,5:00
+light,2.0,Tue Dec 06 06:38:40 EST 2016,dark,7:00
+light,2.0,Tue Dec 06 07:51:46 EST 2016,dark,8:00
+light,2.0,Tue Dec 06 07:51:46 EST 2016,dark,8:00
+light,2.0,Tue Dec 06 08:41:01 EST 2016,dark,9:00
+light,2.0,Tue Dec 06 09:52:46 EST 2016,dark,10:00
+light,2.0,Tue Dec 06 10:19:25 EST 2016,dark,10:00
+light,2.0,Tue Dec 06 10:47:03 EST 2016,dark,11:00
+light,2.0,Tue Dec 06 10:47:03 EST 2016,dark,11:00
+light,2.0,Tue Dec 06 10:48:03 EST 2016,dark,11:00
+light,15.0,Tue Dec 06 10:58:44 EST 2016,less bright,11:00
+light,7.0,Tue Dec 06 11:10:15 EST 2016,less bright,11:00
+light,17.0,Tue Dec 06 11:10:16 EST 2016,less bright,11:00
+light,21.0,Tue Dec 06 11:15:56 EST 2016,less bright,11:00
+light,26.0,Tue Dec 06 11:19:09 EST 2016,less bright,11:00
+light,10.333333,Tue Dec 06 11:19:09 EST 2016,less bright,11:00
+light,18.333334,Tue Dec 06 11:23:07 EST 2016,less bright,11:00
+light,28.0,Tue Dec 06 11:23:08 EST 2016,less bright,11:00
+light,42.0,Tue Dec 06 11:51:49 EST 2016,less bright,12:00
+light,37.0,Tue Dec 06 11:51:49 EST 2016,less bright,12:00
+light,39.333332,Tue Dec 06 12:18:51 EST 2016,less bright,12:00
+light,49.333332,Tue Dec 06 12:26:29 EST 2016,less bright,12:00
+light,36.666668,Tue Dec 06 12:26:29 EST 2016,less bright,12:00
+light,42.0,Tue Dec 06 13:02:22 EST 2016,less bright,13:00
+light,47.0,Tue Dec 06 13:20:30 EST 2016,less bright,13:00
+light,44.333332,Tue Dec 06 13:28:32 EST 2016,less bright,13:00
+light,49.0,Tue Dec 06 13:41:19 EST 2016,less bright,14:00
+light,44.333332,Tue Dec 06 13:49:43 EST 2016,less bright,14:00
+light,47.333332,Tue Dec 06 13:50:54 EST 2016,less bright,14:00
+light,40.0,Tue Dec 06 13:54:11 EST 2016,less bright,14:00
+light,37.333332,Tue Dec 06 13:54:12 EST 2016,less bright,14:00
+light,62.333332,Tue Dec 06 13:55:56 EST 2016,less bright,14:00
+light,67.666664,Tue Dec 06 14:42:55 EST 2016,less bright,15:00
+light,52.0,Tue Dec 06 14:44:39 EST 2016,less bright,15:00
+light,99.666664,Tue Dec 06 14:56:30 EST 2016,less bright,15:00
+light,33.0,Tue Dec 06 15:26:08 EST 2016,less bright,15:00
+light,38.333332,Tue Dec 06 15:42:59 EST 2016,less bright,16:00
+light,278.33334,Tue Dec 06 15:49:35 EST 2016,less bright,16:00
+light,73.666664,Tue Dec 06 16:05:54 EST 2016,less bright,16:00
+light,244.33333,Tue Dec 06 17:00:02 EST 2016,less bright,17:00
+light,380.33334,Tue Dec 06 17:12:51 EST 2016,less bright,17:00
+light,163.0,Tue Dec 06 17:47:50 EST 2016,less bright,18:00
+light,42.333332,Tue Dec 06 18:37:11 EST 2016,less bright,19:00
+light,641.0,Tue Dec 06 18:37:11 EST 2016,less bright,19:00
+light,519.0,Tue Dec 06 18:37:11 EST 2016,less bright,19:00
+light,1145.0,Tue Dec 06 19:15:57 EST 2016,less bright,19:00
+light,348.66666,Tue Dec 06 19:23:14 EST 2016,less bright,19:00
+light,661.3333,Tue Dec 06 19:23:14 EST 2016,less bright,19:00
+light,405.33334,Tue Dec 06 19:45:59 EST 2016,less bright,20:00
+light,21.333334,Tue Dec 06 20:29:08 EST 2016,less bright,20:00
+light,271.33334,Tue Dec 06 20:58:01 EST 2016,less bright,21:00
+light,488.33334,Tue Dec 06 21:17:01 EST 2016,less bright,21:00
+light,13.0,Tue Dec 06 21:18:01 EST 2016,less bright,21:00
+light,90.0,Tue Dec 06 22:16:53 EST 2016,less bright,22:00
+light,99.333336,Tue Dec 06 23:50:02 EST 2016,less bright,0:00

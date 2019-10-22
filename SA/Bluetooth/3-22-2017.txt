@@ -1,0 +1,2 @@
+bt,Disconnected,Wed Mar 22 08:31:25 EDT 2017,Disconnected,9:00
+bt,Connected,Wed Mar 22 08:31:44 EDT 2017,Connected,9:00

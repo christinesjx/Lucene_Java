@@ -1,0 +1,581 @@
+light,61.0,Thu Jun 09 00:00:39 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:01:39 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:02:39 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:03:39 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:04:39 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:05:39 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:07:39 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:07:39 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:08:39 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:09:39 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:10:40 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:11:40 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:12:40 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:13:40 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:14:40 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:16:40 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:16:40 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:17:40 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:18:40 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:19:40 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:20:40 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:21:42 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:22:44 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:23:44 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:24:44 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:26:44 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:26:44 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:27:45 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:28:45 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:29:45 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:30:45 EDT 2016,less bright,0:00
+light,61.0,Thu Jun 09 00:31:45 EDT 2016,less bright,1:00
+light,61.0,Thu Jun 09 00:32:45 EDT 2016,less bright,1:00
+light,61.0,Thu Jun 09 00:33:45 EDT 2016,less bright,1:00
+light,61.0,Thu Jun 09 00:34:45 EDT 2016,less bright,1:00
+light,61.0,Thu Jun 09 00:35:46 EDT 2016,less bright,1:00
+light,61.0,Thu Jun 09 00:37:47 EDT 2016,less bright,1:00
+light,61.0,Thu Jun 09 00:37:47 EDT 2016,less bright,1:00
+light,61.0,Thu Jun 09 00:38:47 EDT 2016,less bright,1:00
+light,61.0,Thu Jun 09 00:39:49 EDT 2016,less bright,1:00
+light,61.0,Thu Jun 09 00:40:52 EDT 2016,less bright,1:00
+light,57.333332,Thu Jun 09 00:41:52 EDT 2016,less bright,1:00
+light,52.666668,Thu Jun 09 00:42:52 EDT 2016,less bright,1:00
+light,52.333332,Thu Jun 09 00:43:53 EDT 2016,less bright,1:00
+light,52.0,Thu Jun 09 00:44:53 EDT 2016,less bright,1:00
+light,35.0,Thu Jun 09 01:06:26 EDT 2016,less bright,1:00
+light,62.666668,Thu Jun 09 01:06:26 EDT 2016,less bright,1:00
+light,2.0,Thu Jun 09 01:17:49 EDT 2016,dark,1:00
+light,2.0,Thu Jun 09 01:19:19 EDT 2016,dark,1:00
+light,2.0,Thu Jun 09 01:21:19 EDT 2016,dark,1:00
+light,2.0,Thu Jun 09 01:21:19 EDT 2016,dark,1:00
+light,2.0,Thu Jun 09 01:22:20 EDT 2016,dark,1:00
+light,2.0,Thu Jun 09 01:23:21 EDT 2016,dark,1:00
+light,2.0,Thu Jun 09 01:24:22 EDT 2016,dark,1:00
+light,2.0,Thu Jun 09 01:25:22 EDT 2016,dark,1:00
+light,2.0,Thu Jun 09 01:26:23 EDT 2016,dark,1:00
+light,2.0,Thu Jun 09 01:27:24 EDT 2016,dark,1:00
+light,2.0,Thu Jun 09 01:28:25 EDT 2016,dark,1:00
+light,2.0,Thu Jun 09 01:29:26 EDT 2016,dark,1:00
+light,2.0,Thu Jun 09 01:30:27 EDT 2016,dark,1:00
+light,2.0,Thu Jun 09 01:31:28 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:32:29 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:33:30 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:34:31 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:35:31 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:36:32 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:37:33 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:38:34 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:39:35 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:40:35 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:41:36 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:42:37 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:43:38 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:44:39 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:45:40 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:46:41 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:47:42 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:48:43 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:49:44 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:50:44 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:51:45 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:52:46 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:53:47 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:54:48 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:55:49 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:56:50 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:57:51 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:58:52 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 01:59:53 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:00:53 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:01:54 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:02:55 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:03:56 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:04:57 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:05:58 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:06:59 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:08:00 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:09:01 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:10:02 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:11:02 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:12:03 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:13:04 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:14:05 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:15:06 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:16:07 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:17:08 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:18:09 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:19:10 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:20:11 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:21:11 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:22:12 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:23:13 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:24:14 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:25:15 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:26:15 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:27:16 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:28:17 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:29:18 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:30:19 EDT 2016,dark,2:00
+light,2.0,Thu Jun 09 02:31:20 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:32:21 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:33:22 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:34:23 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:35:23 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:36:24 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:37:25 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:38:26 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:39:27 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:40:28 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:41:29 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:42:29 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:43:30 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:44:31 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:45:32 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:46:33 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:47:33 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:48:34 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:49:35 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:50:36 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:51:37 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:52:38 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:53:39 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:54:40 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:55:41 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:56:42 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:57:42 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:58:43 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 02:59:44 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:00:45 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:01:46 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:02:47 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:03:48 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:04:48 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:05:49 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:06:50 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:07:51 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:08:52 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:09:53 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:10:54 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:11:55 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:12:56 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:13:57 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:14:57 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:15:59 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:16:59 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:18:00 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:19:01 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:20:02 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:21:03 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:22:04 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:23:05 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:24:06 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:25:06 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:26:07 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:27:08 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:28:09 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:29:10 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:30:11 EDT 2016,dark,3:00
+light,2.0,Thu Jun 09 03:31:12 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:32:13 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:33:14 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:34:15 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:35:15 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:36:16 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:37:17 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:38:18 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:39:19 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:40:20 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:41:21 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:42:21 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:43:22 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:44:23 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:45:24 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:46:25 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:47:25 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:48:26 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:49:27 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:50:28 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:51:29 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:52:30 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:53:31 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:54:32 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:55:32 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:56:33 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:57:34 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:58:35 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 03:59:36 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:00:37 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:01:38 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:02:39 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:03:39 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:04:40 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:05:41 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:06:42 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:07:43 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:08:44 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:09:45 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:10:46 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:11:46 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:12:47 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:13:48 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:14:49 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:15:50 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:16:51 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:17:52 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:18:53 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:19:54 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:20:55 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:21:55 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:22:56 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:23:57 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:24:58 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:25:59 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:27:00 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:28:01 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:29:02 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:30:03 EDT 2016,dark,4:00
+light,2.0,Thu Jun 09 04:31:03 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:32:04 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:33:05 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:34:06 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:35:07 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:37:08 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:37:08 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:38:09 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:39:10 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:40:11 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:41:11 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:42:12 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:43:13 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:44:14 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:45:15 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:46:15 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:47:16 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:48:17 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:49:18 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:50:19 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:51:20 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:52:21 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:53:22 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:54:23 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:55:23 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:56:24 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:57:25 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:58:26 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 04:59:27 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:00:28 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:01:29 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:02:30 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:03:30 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:04:31 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:05:32 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:06:33 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:07:34 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:08:34 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:09:35 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:10:36 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:11:37 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:12:38 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:13:39 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:14:40 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:15:41 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:16:42 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:17:43 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:18:43 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:19:44 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:20:45 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:21:46 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:22:47 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:23:48 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:24:49 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:25:50 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:26:50 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:27:51 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:28:52 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:29:53 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:30:54 EDT 2016,dark,5:00
+light,2.0,Thu Jun 09 05:31:55 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:32:56 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:33:57 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:34:58 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:35:59 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:36:59 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:38:00 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:39:01 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:40:02 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:41:03 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:42:04 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:43:05 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:44:06 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:45:06 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:46:07 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:47:08 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:48:09 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:49:10 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:50:11 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:51:12 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:52:13 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:53:14 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:54:15 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:55:15 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:56:16 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:57:17 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:58:18 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 05:59:19 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 06:00:20 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 06:01:21 EDT 2016,dark,6:00
+light,6.3333335,Thu Jun 09 06:02:22 EDT 2016,less bright,6:00
+light,15.0,Thu Jun 09 06:03:23 EDT 2016,less bright,6:00
+light,15.0,Thu Jun 09 06:04:23 EDT 2016,less bright,6:00
+light,15.0,Thu Jun 09 06:05:24 EDT 2016,less bright,6:00
+light,15.0,Thu Jun 09 06:06:25 EDT 2016,less bright,6:00
+light,15.0,Thu Jun 09 06:07:26 EDT 2016,less bright,6:00
+light,15.0,Thu Jun 09 06:08:27 EDT 2016,less bright,6:00
+light,15.0,Thu Jun 09 06:09:28 EDT 2016,less bright,6:00
+light,15.0,Thu Jun 09 06:10:29 EDT 2016,less bright,6:00
+light,15.0,Thu Jun 09 06:11:29 EDT 2016,less bright,6:00
+light,15.0,Thu Jun 09 06:12:30 EDT 2016,less bright,6:00
+light,15.0,Thu Jun 09 06:13:31 EDT 2016,less bright,6:00
+light,15.0,Thu Jun 09 06:14:32 EDT 2016,less bright,6:00
+light,15.0,Thu Jun 09 06:15:33 EDT 2016,less bright,6:00
+light,15.0,Thu Jun 09 06:16:33 EDT 2016,less bright,6:00
+light,15.0,Thu Jun 09 06:17:34 EDT 2016,less bright,6:00
+light,15.0,Thu Jun 09 06:18:35 EDT 2016,less bright,6:00
+light,6.3333335,Thu Jun 09 06:19:36 EDT 2016,less bright,6:00
+light,2.0,Thu Jun 09 06:20:37 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 06:21:38 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 06:22:39 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 06:23:40 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 06:24:41 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 06:25:41 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 06:26:42 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 06:27:43 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 06:28:44 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 06:29:45 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 06:30:46 EDT 2016,dark,6:00
+light,2.0,Thu Jun 09 06:31:47 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:32:48 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:33:49 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:34:49 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:35:50 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:36:51 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:37:52 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:38:53 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:39:54 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:40:55 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:41:56 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:42:57 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:43:58 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:44:58 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:45:59 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:47:00 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:48:01 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:49:02 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:50:03 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:51:04 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:52:05 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:53:06 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:54:07 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:55:07 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:56:08 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:57:09 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:58:10 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 06:59:11 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:00:12 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:01:13 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:02:14 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:03:15 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:04:15 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:05:16 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:06:17 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:07:18 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:08:19 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:09:20 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:10:21 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:11:21 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:12:22 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:13:23 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:14:24 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:15:25 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:16:25 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:17:26 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:18:27 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:19:28 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:20:29 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:21:30 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:22:31 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:23:32 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:24:33 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:25:33 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:26:34 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:27:35 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:28:36 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:29:37 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:30:38 EDT 2016,dark,7:00
+light,2.0,Thu Jun 09 07:31:39 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:32:40 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:33:41 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:34:41 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:35:42 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:36:43 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:37:44 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:38:45 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:39:46 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:40:46 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:41:47 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:42:48 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:43:49 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:44:50 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:45:51 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:46:52 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:47:53 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:48:54 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:49:55 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:50:56 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:51:57 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:52:58 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:53:59 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:54:59 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:56:00 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:57:01 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:58:02 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 07:59:03 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:00:04 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:01:05 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:02:05 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:03:06 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:04:07 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:05:08 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:06:09 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:07:10 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:08:11 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:09:12 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:10:13 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:11:14 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:12:14 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:13:15 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:14:16 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:15:17 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:16:18 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:17:19 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:18:19 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:19:20 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:20:21 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:21:22 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:22:23 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:23:24 EDT 2016,dark,8:00
+light,15.0,Thu Jun 09 08:24:25 EDT 2016,less bright,8:00
+light,15.0,Thu Jun 09 08:25:25 EDT 2016,less bright,8:00
+light,15.0,Thu Jun 09 08:26:26 EDT 2016,less bright,8:00
+light,6.3333335,Thu Jun 09 08:27:27 EDT 2016,less bright,8:00
+light,2.0,Thu Jun 09 08:28:28 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:29:29 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:30:30 EDT 2016,dark,8:00
+light,2.0,Thu Jun 09 08:31:31 EDT 2016,dark,9:00
+light,6.3333335,Thu Jun 09 08:32:32 EDT 2016,less bright,9:00
+light,2.0,Thu Jun 09 08:33:33 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:34:34 EDT 2016,dark,9:00
+light,6.3333335,Thu Jun 09 08:35:34 EDT 2016,less bright,9:00
+light,2.0,Thu Jun 09 08:36:35 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:37:36 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:38:37 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:39:38 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:40:38 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:41:39 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:42:40 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:43:41 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:44:42 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:45:43 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:46:44 EDT 2016,dark,9:00
+light,6.3333335,Thu Jun 09 08:47:44 EDT 2016,less bright,9:00
+light,2.0,Thu Jun 09 08:48:45 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:49:46 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:50:47 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:51:48 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:52:49 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:53:50 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:54:51 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 08:55:51 EDT 2016,dark,9:00
+light,2.0,Thu Jun 09 09:20:00 EDT 2016,dark,9:00
+light,36.666668,Thu Jun 09 09:40:09 EDT 2016,less bright,10:00
+light,17.0,Thu Jun 09 10:00:35 EDT 2016,less bright,10:00
+light,1590.3334,Thu Jun 09 10:24:41 EDT 2016,less bright,10:00
+light,1940.6666,Thu Jun 09 10:35:16 EDT 2016,less bright,11:00
+light,138.33333,Thu Jun 09 10:42:11 EDT 2016,less bright,11:00
+light,16.666666,Thu Jun 09 11:05:36 EDT 2016,less bright,11:00
+light,24.333334,Thu Jun 09 11:05:36 EDT 2016,less bright,11:00
+light,803.6667,Thu Jun 09 11:05:36 EDT 2016,less bright,11:00
+light,17.0,Thu Jun 09 11:23:11 EDT 2016,less bright,11:00
+light,10.666667,Thu Jun 09 12:18:51 EDT 2016,less bright,12:00
+light,102.0,Thu Jun 09 12:19:51 EDT 2016,less bright,12:00
+light,69.333336,Thu Jun 09 12:19:51 EDT 2016,less bright,12:00
+light,161.66667,Thu Jun 09 12:29:46 EDT 2016,less bright,12:00
+light,166.0,Thu Jun 09 13:03:08 EDT 2016,less bright,13:00
+light,180.0,Thu Jun 09 13:06:10 EDT 2016,less bright,13:00
+light,175.33333,Thu Jun 09 13:06:10 EDT 2016,less bright,13:00
+light,150.0,Thu Jun 09 13:19:21 EDT 2016,less bright,13:00
+light,60.333332,Thu Jun 09 13:31:25 EDT 2016,less bright,14:00
+light,157.33333,Thu Jun 09 13:32:27 EDT 2016,less bright,14:00
+light,151.33333,Thu Jun 09 13:44:30 EDT 2016,less bright,14:00
+light,102.333336,Thu Jun 09 13:45:00 EDT 2016,less bright,14:00
+light,134.0,Thu Jun 09 13:48:28 EDT 2016,less bright,14:00
+light,86.666664,Thu Jun 09 13:50:08 EDT 2016,less bright,14:00
+light,191.66667,Thu Jun 09 13:50:08 EDT 2016,less bright,14:00
+light,158.0,Thu Jun 09 13:51:10 EDT 2016,less bright,14:00
+light,155.33333,Thu Jun 09 13:54:29 EDT 2016,less bright,14:00
+light,184.66667,Thu Jun 09 13:54:29 EDT 2016,less bright,14:00
+light,156.33333,Thu Jun 09 13:54:29 EDT 2016,less bright,14:00
+light,191.0,Thu Jun 09 13:56:34 EDT 2016,less bright,14:00
+light,143.66667,Thu Jun 09 13:58:10 EDT 2016,less bright,14:00
+light,181.0,Thu Jun 09 14:01:29 EDT 2016,less bright,14:00
+light,90.0,Thu Jun 09 14:03:34 EDT 2016,less bright,14:00
+light,121.666664,Thu Jun 09 14:03:34 EDT 2016,less bright,14:00
+light,140.0,Thu Jun 09 14:06:50 EDT 2016,less bright,14:00
+light,129.0,Thu Jun 09 14:14:41 EDT 2016,less bright,14:00
+light,23.666666,Thu Jun 09 14:40:26 EDT 2016,less bright,15:00
+light,242.33333,Thu Jun 09 15:48:35 EDT 2016,less bright,16:00
+light,848.6667,Thu Jun 09 15:56:16 EDT 2016,less bright,16:00
+light,595.0,Thu Jun 09 16:04:27 EDT 2016,less bright,16:00
+light,54.333332,Thu Jun 09 16:24:53 EDT 2016,less bright,16:00
+light,144.33333,Thu Jun 09 16:27:40 EDT 2016,less bright,16:00
+light,246.0,Thu Jun 09 16:27:40 EDT 2016,less bright,16:00
+light,5380.0,Thu Jun 09 16:29:42 EDT 2016,less bright,16:00
+light,4239.3335,Thu Jun 09 16:32:26 EDT 2016,less bright,17:00
+light,1198.3334,Thu Jun 09 16:33:00 EDT 2016,less bright,17:00
+light,1631.3334,Thu Jun 09 16:37:47 EDT 2016,less bright,17:00
+light,30704.0,Thu Jun 09 16:37:47 EDT 2016,bright,17:00
+light,12358.667,Thu Jun 09 16:37:47 EDT 2016,bright,17:00
+light,3360.3333,Thu Jun 09 16:58:32 EDT 2016,less bright,17:00
+light,20147.334,Thu Jun 09 16:58:32 EDT 2016,bright,17:00
+light,1935.3334,Thu Jun 09 16:58:32 EDT 2016,less bright,17:00
+light,441.33334,Thu Jun 09 16:58:32 EDT 2016,less bright,17:00
+light,4689.3335,Thu Jun 09 17:31:15 EDT 2016,less bright,18:00
+light,1605.0,Thu Jun 09 17:42:54 EDT 2016,less bright,18:00
+light,1961.3334,Thu Jun 09 18:10:01 EDT 2016,less bright,18:00
+light,1194.0,Thu Jun 09 18:34:43 EDT 2016,less bright,19:00
+light,278.66666,Thu Jun 09 18:44:12 EDT 2016,less bright,19:00
+light,283.33334,Thu Jun 09 18:52:46 EDT 2016,less bright,19:00
+light,114.333336,Thu Jun 09 19:09:50 EDT 2016,less bright,19:00
+light,13291.667,Thu Jun 09 19:10:52 EDT 2016,bright,19:00
+light,155.33333,Thu Jun 09 19:10:53 EDT 2016,less bright,19:00
+light,398.33334,Thu Jun 09 19:24:41 EDT 2016,less bright,19:00
+light,19.0,Thu Jun 09 19:26:07 EDT 2016,less bright,19:00
+light,35.666668,Thu Jun 09 20:20:04 EDT 2016,less bright,20:00
+light,30.333334,Thu Jun 09 20:38:43 EDT 2016,less bright,21:00
+light,48.666668,Thu Jun 09 20:54:34 EDT 2016,less bright,21:00
+light,15.0,Thu Jun 09 21:03:00 EDT 2016,less bright,21:00
+light,24.0,Thu Jun 09 21:07:54 EDT 2016,less bright,21:00
+light,10.666667,Thu Jun 09 21:07:54 EDT 2016,less bright,21:00
+light,26.0,Thu Jun 09 21:16:25 EDT 2016,less bright,21:00
+light,57.0,Thu Jun 09 21:44:31 EDT 2016,less bright,22:00
+light,97.333336,Thu Jun 09 21:44:31 EDT 2016,less bright,22:00
+light,102.333336,Thu Jun 09 22:32:14 EDT 2016,less bright,23:00
+light,74.666664,Thu Jun 09 22:32:15 EDT 2016,less bright,23:00
+light,32.333332,Thu Jun 09 22:32:15 EDT 2016,less bright,23:00
+light,78.0,Thu Jun 09 22:59:09 EDT 2016,less bright,23:00
+light,52.0,Thu Jun 09 23:18:02 EDT 2016,less bright,23:00
+light,95.666664,Thu Jun 09 23:18:02 EDT 2016,less bright,23:00
+light,24.333334,Thu Jun 09 23:43:33 EDT 2016,less bright,0:00
+light,40.0,Thu Jun 09 23:53:42 EDT 2016,less bright,0:00
+light,35.666668,Thu Jun 09 23:53:42 EDT 2016,less bright,0:00

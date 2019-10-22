@@ -1,0 +1,5 @@
+activity,unknown,Tue Dec 20 00:00:00 EST 2016,unknown,0:00
+activity,walking,Tue Dec 20 18:39:01 EST 2016,walking,19:00
+activity,unknown,Tue Dec 20 18:40:44 EST 2016,unknown,19:00
+activity,walking,Tue Dec 20 18:59:01 EST 2016,walking,19:00
+activity,unknown,Tue Dec 20 19:00:30 EST 2016,unknown,19:00

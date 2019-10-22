@@ -1,0 +1,57 @@
+activity(step),18,Mon Feb 27 09:39:14 EST 2017,very inactive,10:00
+activity(step),32,Mon Feb 27 09:42:39 EST 2017,very inactive,10:00
+activity(step),85,Mon Feb 27 09:46:15 EST 2017,very inactive,10:00
+activity(step),213,Mon Feb 27 09:48:01 EST 2017,very inactive,10:00
+activity(step),230,Mon Feb 27 10:03:01 EST 2017,very inactive,10:00
+activity(step),274,Mon Feb 27 10:36:13 EST 2017,very inactive,11:00
+activity(step),323,Mon Feb 27 10:37:41 EST 2017,very inactive,11:00
+activity(step),359,Mon Feb 27 10:40:48 EST 2017,very inactive,11:00
+activity(step),474,Mon Feb 27 10:42:00 EST 2017,very inactive,11:00
+activity(step),508,Mon Feb 27 10:43:06 EST 2017,very inactive,11:00
+activity(step),522,Mon Feb 27 12:04:57 EST 2017,very inactive,12:00
+activity(step),538,Mon Feb 27 12:49:14 EST 2017,very inactive,13:00
+activity(step),543,Mon Feb 27 12:50:14 EST 2017,very inactive,13:00
+activity(step),556,Mon Feb 27 13:03:37 EST 2017,very inactive,13:00
+activity(step),599,Mon Feb 27 13:06:49 EST 2017,very inactive,13:00
+activity(step),611,Mon Feb 27 13:17:29 EST 2017,very inactive,13:00
+activity(step),663,Mon Feb 27 13:18:29 EST 2017,very inactive,13:00
+activity(step),676,Mon Feb 27 13:19:28 EST 2017,very inactive,13:00
+activity(step),700,Mon Feb 27 13:20:19 EST 2017,very inactive,13:00
+activity(step),733,Mon Feb 27 13:27:50 EST 2017,very inactive,13:00
+activity(step),832,Mon Feb 27 13:28:56 EST 2017,very inactive,13:00
+activity(step),930,Mon Feb 27 13:31:03 EST 2017,very inactive,14:00
+activity(step),943,Mon Feb 27 14:14:42 EST 2017,very inactive,14:00
+activity(step),990,Mon Feb 27 14:15:54 EST 2017,very inactive,14:00
+activity(step),1011,Mon Feb 27 14:17:28 EST 2017,inactive,14:00
+activity(step),1025,Mon Feb 27 14:25:39 EST 2017,inactive,14:00
+activity(step),1102,Mon Feb 27 14:26:39 EST 2017,inactive,14:00
+activity(step),1104,Mon Feb 27 14:27:40 EST 2017,inactive,14:00
+activity(step),1173,Mon Feb 27 14:27:41 EST 2017,inactive,14:00
+activity(step),1192,Mon Feb 27 14:28:51 EST 2017,inactive,14:00
+activity(step),1194,Mon Feb 27 14:29:49 EST 2017,inactive,14:00
+activity(step),1268,Mon Feb 27 14:29:50 EST 2017,inactive,14:00
+activity(step),1282,Mon Feb 27 15:21:22 EST 2017,inactive,15:00
+activity(step),1291,Mon Feb 27 15:22:22 EST 2017,inactive,15:00
+activity(step),1303,Mon Feb 27 16:34:57 EST 2017,inactive,17:00
+activity(step),1321,Mon Feb 27 16:35:57 EST 2017,inactive,17:00
+activity(step),1335,Mon Feb 27 16:45:01 EST 2017,inactive,17:00
+activity(step),1398,Mon Feb 27 16:46:01 EST 2017,inactive,17:00
+activity(step),1462,Mon Feb 27 16:47:01 EST 2017,inactive,17:00
+activity(step),1557,Mon Feb 27 16:47:35 EST 2017,inactive,17:00
+activity(step),1567,Mon Feb 27 16:49:42 EST 2017,inactive,17:00
+activity(step),1580,Mon Feb 27 17:24:58 EST 2017,inactive,17:00
+activity(step),1593,Mon Feb 27 17:31:32 EST 2017,inactive,18:00
+activity(step),1683,Mon Feb 27 17:32:32 EST 2017,inactive,18:00
+activity(step),1703,Mon Feb 27 17:34:03 EST 2017,inactive,18:00
+activity(step),1841,Mon Feb 27 17:35:03 EST 2017,inactive,18:00
+activity(step),1860,Mon Feb 27 17:36:24 EST 2017,inactive,18:00
+activity(step),1980,Mon Feb 27 17:37:14 EST 2017,inactive,18:00
+activity(step),1990,Mon Feb 27 17:38:15 EST 2017,inactive,18:00
+activity(step),2019,Mon Feb 27 18:32:53 EST 2017,inactive,19:00
+activity(step),2077,Mon Feb 27 18:35:31 EST 2017,inactive,19:00
+activity(step),2100,Mon Feb 27 19:07:45 EST 2017,inactive,19:00
+activity(step),2111,Mon Feb 27 19:08:45 EST 2017,inactive,19:00
+activity(step),2124,Mon Feb 27 19:26:59 EST 2017,inactive,19:00
+activity(step),2134,Mon Feb 27 19:27:59 EST 2017,inactive,19:00
+activity(step),2147,Mon Feb 27 20:19:02 EST 2017,inactive,20:00
+activity(step),2178,Mon Feb 27 20:21:16 EST 2017,inactive,20:00

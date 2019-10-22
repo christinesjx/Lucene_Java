@@ -1,0 +1,13 @@
+bt,Disconnected,Fri May 26 09:03:22 EDT 2017,Disconnected,9:00
+bt,Connected,Fri May 26 09:03:31 EDT 2017,Connected,9:00
+bt,Disconnected,Fri May 26 09:04:56 EDT 2017,Disconnected,9:00
+bt,Connected,Fri May 26 09:04:56 EDT 2017,Connected,9:00
+bt,Disconnected,Fri May 26 10:19:16 EDT 2017,Disconnected,10:00
+bt,Connected,Fri May 26 10:19:30 EDT 2017,Connected,10:00
+bt,Connected,Fri May 26 11:11:57 EDT 2017,Connected,11:00
+bt,Disconnected,Fri May 26 18:09:59 EDT 2017,Disconnected,18:00
+bt,Connected,Fri May 26 18:10:57 EDT 2017,Connected,18:00
+bt,Disconnected,Fri May 26 18:17:21 EDT 2017,Disconnected,18:00
+bt,Connected,Fri May 26 18:17:54 EDT 2017,Connected,18:00
+bt,Disconnected,Fri May 26 18:18:57 EDT 2017,Disconnected,18:00
+bt,Connected,Fri May 26 18:19:33 EDT 2017,Connected,18:00

@@ -1,0 +1,11 @@
+activity,unknown,Wed Oct 26 00:00:00 EDT 2016,unknown,0:00
+activity,walking,Wed Oct 26 12:12:01 EDT 2016,walking,12:00
+activity,unknown,Wed Oct 26 12:23:06 EDT 2016,unknown,12:00
+activity,walking,Wed Oct 26 16:11:00 EDT 2016,walking,16:00
+activity,unknown,Wed Oct 26 16:16:00 EDT 2016,unknown,16:00
+activity,walking,Wed Oct 26 17:49:00 EDT 2016,walking,18:00
+activity,unknown,Wed Oct 26 17:52:00 EDT 2016,unknown,18:00
+activity,walking,Wed Oct 26 17:56:01 EDT 2016,walking,18:00
+activity,unknown,Wed Oct 26 17:58:00 EDT 2016,unknown,18:00
+activity,walking,Wed Oct 26 20:00:01 EDT 2016,walking,20:00
+activity,unknown,Wed Oct 26 20:15:00 EDT 2016,unknown,20:00

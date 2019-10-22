@@ -1,0 +1,32 @@
+activity(step),14,Sat Jun 17 16:06:58 EDT 2017,very inactive,16:00
+activity(step),67,Sat Jun 17 16:13:07 EDT 2017,very inactive,16:00
+activity(step),117,Sat Jun 17 16:14:58 EDT 2017,very inactive,16:00
+activity(step),146,Sat Jun 17 16:27:53 EDT 2017,very inactive,16:00
+activity(step),179,Sat Jun 17 16:29:02 EDT 2017,very inactive,16:00
+activity(step),195,Sat Jun 17 16:30:08 EDT 2017,very inactive,16:00
+activity(step),236,Sat Jun 17 16:30:53 EDT 2017,very inactive,16:00
+activity(step),264,Sat Jun 17 16:39:53 EDT 2017,very inactive,17:00
+activity(step),385,Sat Jun 17 16:40:53 EDT 2017,very inactive,17:00
+activity(step),401,Sat Jun 17 16:49:53 EDT 2017,very inactive,17:00
+activity(step),447,Sat Jun 17 16:51:04 EDT 2017,very inactive,17:00
+activity(step),547,Sat Jun 17 16:52:36 EDT 2017,very inactive,17:00
+activity(step),550,Sat Jun 17 16:53:36 EDT 2017,very inactive,17:00
+activity(step),755,Sat Jun 17 16:56:03 EDT 2017,very inactive,17:00
+activity(step),885,Sat Jun 17 17:02:53 EDT 2017,very inactive,17:00
+activity(step),971,Sat Jun 17 17:04:02 EDT 2017,very inactive,17:00
+activity(step),989,Sat Jun 17 17:09:12 EDT 2017,very inactive,17:00
+activity(step),1092,Sat Jun 17 17:16:40 EDT 2017,inactive,17:00
+activity(step),1138,Sat Jun 17 17:20:06 EDT 2017,inactive,17:00
+activity(step),1358,Sat Jun 17 17:20:49 EDT 2017,inactive,17:00
+activity(step),1400,Sat Jun 17 17:23:18 EDT 2017,inactive,17:00
+activity(step),1441,Sat Jun 17 17:23:50 EDT 2017,inactive,17:00
+activity(step),1518,Sat Jun 17 17:24:53 EDT 2017,inactive,17:00
+activity(step),1527,Sat Jun 17 17:25:30 EDT 2017,inactive,17:00
+activity(step),1554,Sat Jun 17 17:55:13 EDT 2017,inactive,18:00
+activity(step),1586,Sat Jun 17 18:25:36 EDT 2017,inactive,18:00
+activity(step),1618,Sat Jun 17 18:35:48 EDT 2017,inactive,19:00
+activity(step),1634,Sat Jun 17 21:58:49 EDT 2017,inactive,22:00
+activity(step),1656,Sat Jun 17 22:06:20 EDT 2017,inactive,22:00
+activity(step),1659,Sat Jun 17 22:07:20 EDT 2017,inactive,22:00
+activity(step),1672,Sat Jun 17 23:18:52 EDT 2017,inactive,23:00
+activity(step),1690,Sat Jun 17 23:19:52 EDT 2017,inactive,23:00

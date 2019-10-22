@@ -1,0 +1,175 @@
+light,53.333332,Sat Feb 04 00:06:23 EST 2017,less bright,0:00
+light,27.0,Sat Feb 04 00:06:23 EST 2017,less bright,0:00
+light,33.333332,Sat Feb 04 00:08:57 EST 2017,less bright,0:00
+light,2.0,Sat Feb 04 00:11:52 EST 2017,dark,0:00
+light,224.0,Sat Feb 04 00:24:41 EST 2017,less bright,0:00
+light,2.0,Sat Feb 04 00:48:42 EST 2017,dark,1:00
+light,2.0,Sat Feb 04 00:48:42 EST 2017,dark,1:00
+light,2.0,Sat Feb 04 01:50:01 EST 2017,dark,2:00
+light,2.0,Sat Feb 04 02:33:52 EST 2017,dark,3:00
+light,11.333333,Sat Feb 04 04:06:40 EST 2017,less bright,4:00
+light,250.33333,Sat Feb 04 04:06:40 EST 2017,less bright,4:00
+light,123.333336,Sat Feb 04 04:30:02 EST 2017,less bright,4:00
+light,132.0,Sat Feb 04 05:28:42 EST 2017,less bright,5:00
+light,167.0,Sat Feb 04 06:11:55 EST 2017,less bright,6:00
+light,44.666668,Sat Feb 04 06:30:03 EST 2017,less bright,6:00
+light,2.0,Sat Feb 04 08:23:01 EST 2017,dark,8:00
+light,132.33333,Sat Feb 04 08:44:06 EST 2017,less bright,9:00
+light,52.0,Sat Feb 04 08:44:07 EST 2017,less bright,9:00
+light,46.0,Sat Feb 04 08:44:07 EST 2017,less bright,9:00
+light,139.66667,Sat Feb 04 08:57:51 EST 2017,less bright,9:00
+light,68.0,Sat Feb 04 09:14:07 EST 2017,less bright,9:00
+light,60.666668,Sat Feb 04 09:19:50 EST 2017,less bright,9:00
+light,66.666664,Sat Feb 04 10:00:02 EST 2017,less bright,10:00
+light,80.0,Sat Feb 04 10:10:34 EST 2017,less bright,10:00
+light,33.333332,Sat Feb 04 10:35:18 EST 2017,less bright,11:00
+light,67.333336,Sat Feb 04 10:49:45 EST 2017,less bright,11:00
+light,41.333332,Sat Feb 04 10:53:19 EST 2017,less bright,11:00
+light,94.333336,Sat Feb 04 10:53:19 EST 2017,less bright,11:00
+light,43.666668,Sat Feb 04 10:59:22 EST 2017,less bright,11:00
+light,53.0,Sat Feb 04 10:59:23 EST 2017,less bright,11:00
+light,3.6666667,Sat Feb 04 11:17:30 EST 2017,dark,11:00
+light,2.0,Sat Feb 04 11:21:42 EST 2017,dark,11:00
+light,2.0,Sat Feb 04 11:23:37 EST 2017,dark,11:00
+light,2.0,Sat Feb 04 11:27:20 EST 2017,dark,11:00
+light,2.0,Sat Feb 04 11:29:54 EST 2017,dark,11:00
+light,2.0,Sat Feb 04 11:32:58 EST 2017,dark,12:00
+light,2.0,Sat Feb 04 11:36:42 EST 2017,dark,12:00
+light,2.0,Sat Feb 04 11:38:56 EST 2017,dark,12:00
+light,2.0,Sat Feb 04 11:42:13 EST 2017,dark,12:00
+light,2.0,Sat Feb 04 11:44:04 EST 2017,dark,12:00
+light,2.0,Sat Feb 04 11:53:48 EST 2017,dark,12:00
+light,2.0,Sat Feb 04 11:55:24 EST 2017,dark,12:00
+light,2.0,Sat Feb 04 12:00:03 EST 2017,dark,12:00
+light,2.0,Sat Feb 04 12:03:21 EST 2017,dark,12:00
+light,2.0,Sat Feb 04 12:03:21 EST 2017,dark,12:00
+light,2.0,Sat Feb 04 12:15:35 EST 2017,dark,12:00
+light,2.0,Sat Feb 04 12:29:16 EST 2017,dark,12:00
+light,2.0,Sat Feb 04 12:43:15 EST 2017,dark,13:00
+light,2.0,Sat Feb 04 12:43:15 EST 2017,dark,13:00
+light,3.6666667,Sat Feb 04 12:46:41 EST 2017,dark,13:00
+light,2.0,Sat Feb 04 12:50:18 EST 2017,dark,13:00
+light,10.333333,Sat Feb 04 12:52:26 EST 2017,less bright,13:00
+light,2.0,Sat Feb 04 12:55:52 EST 2017,dark,13:00
+light,3.6666667,Sat Feb 04 12:58:46 EST 2017,dark,13:00
+light,71.666664,Sat Feb 04 13:01:39 EST 2017,less bright,13:00
+light,63.666668,Sat Feb 04 13:12:13 EST 2017,less bright,13:00
+light,50.333332,Sat Feb 04 13:12:13 EST 2017,less bright,13:00
+light,23.333334,Sat Feb 04 13:16:59 EST 2017,less bright,13:00
+light,3.3333333,Sat Feb 04 13:21:49 EST 2017,dark,13:00
+light,273.0,Sat Feb 04 13:34:29 EST 2017,less bright,14:00
+light,86.666664,Sat Feb 04 13:34:29 EST 2017,less bright,14:00
+light,248.66667,Sat Feb 04 13:42:17 EST 2017,less bright,14:00
+light,91.0,Sat Feb 04 13:45:20 EST 2017,less bright,14:00
+light,2.0,Sat Feb 04 13:49:35 EST 2017,dark,14:00
+light,2.0,Sat Feb 04 13:53:08 EST 2017,dark,14:00
+light,2.0,Sat Feb 04 13:58:32 EST 2017,dark,14:00
+light,2.0,Sat Feb 04 14:01:42 EST 2017,dark,14:00
+light,2.0,Sat Feb 04 14:05:09 EST 2017,dark,14:00
+light,2.0,Sat Feb 04 14:09:04 EST 2017,dark,14:00
+light,2.0,Sat Feb 04 14:14:41 EST 2017,dark,14:00
+light,2.0,Sat Feb 04 14:19:01 EST 2017,dark,14:00
+light,2.0,Sat Feb 04 14:24:02 EST 2017,dark,14:00
+light,2.0,Sat Feb 04 14:28:17 EST 2017,dark,14:00
+light,2.0,Sat Feb 04 14:33:12 EST 2017,dark,15:00
+light,2.0,Sat Feb 04 14:36:47 EST 2017,dark,15:00
+light,2.0,Sat Feb 04 14:38:52 EST 2017,dark,15:00
+light,2.0,Sat Feb 04 14:46:30 EST 2017,dark,15:00
+light,2.0,Sat Feb 04 14:46:30 EST 2017,dark,15:00
+light,2.0,Sat Feb 04 14:51:17 EST 2017,dark,15:00
+light,2.0,Sat Feb 04 14:54:19 EST 2017,dark,15:00
+light,2.0,Sat Feb 04 14:58:38 EST 2017,dark,15:00
+light,2.0,Sat Feb 04 14:58:38 EST 2017,dark,15:00
+light,2.0,Sat Feb 04 15:01:01 EST 2017,dark,15:00
+light,2.0,Sat Feb 04 15:01:01 EST 2017,dark,15:00
+light,2.0,Sat Feb 04 15:03:15 EST 2017,dark,15:00
+light,128.0,Sat Feb 04 15:06:18 EST 2017,less bright,15:00
+light,458.0,Sat Feb 04 15:08:15 EST 2017,less bright,15:00
+light,303.0,Sat Feb 04 15:10:59 EST 2017,less bright,15:00
+light,235.66667,Sat Feb 04 15:13:53 EST 2017,less bright,15:00
+light,93.0,Sat Feb 04 15:20:20 EST 2017,less bright,15:00
+light,149.66667,Sat Feb 04 15:24:43 EST 2017,less bright,15:00
+light,11.666667,Sat Feb 04 15:32:44 EST 2017,less bright,16:00
+light,98.666664,Sat Feb 04 15:32:44 EST 2017,less bright,16:00
+light,14.666667,Sat Feb 04 15:39:40 EST 2017,less bright,16:00
+light,35.333332,Sat Feb 04 15:39:41 EST 2017,less bright,16:00
+light,21.0,Sat Feb 04 15:44:47 EST 2017,less bright,16:00
+light,16.666666,Sat Feb 04 15:50:11 EST 2017,less bright,16:00
+light,22.666666,Sat Feb 04 15:57:33 EST 2017,less bright,16:00
+light,10.0,Sat Feb 04 16:02:22 EST 2017,less bright,16:00
+light,24.0,Sat Feb 04 16:08:39 EST 2017,less bright,16:00
+light,9.666667,Sat Feb 04 16:14:54 EST 2017,less bright,16:00
+light,3.6666667,Sat Feb 04 16:21:03 EST 2017,dark,16:00
+light,2.0,Sat Feb 04 16:27:40 EST 2017,dark,16:00
+light,3.6666667,Sat Feb 04 16:34:07 EST 2017,dark,17:00
+light,15.0,Sat Feb 04 16:40:02 EST 2017,less bright,17:00
+light,15.0,Sat Feb 04 16:44:58 EST 2017,less bright,17:00
+light,45.0,Sat Feb 04 16:48:41 EST 2017,less bright,17:00
+light,2.0,Sat Feb 04 16:51:43 EST 2017,dark,17:00
+light,6.3333335,Sat Feb 04 16:54:59 EST 2017,less bright,17:00
+light,15.0,Sat Feb 04 16:57:50 EST 2017,less bright,17:00
+light,12.666667,Sat Feb 04 17:02:05 EST 2017,less bright,17:00
+light,6.3333335,Sat Feb 04 17:08:12 EST 2017,less bright,17:00
+light,2.0,Sat Feb 04 17:12:40 EST 2017,dark,17:00
+light,2.0,Sat Feb 04 17:21:33 EST 2017,dark,17:00
+light,2.0,Sat Feb 04 17:21:34 EST 2017,dark,17:00
+light,2.0,Sat Feb 04 17:28:03 EST 2017,dark,17:00
+light,2.0,Sat Feb 04 17:34:01 EST 2017,dark,18:00
+light,2.0,Sat Feb 04 17:39:38 EST 2017,dark,18:00
+light,2.0,Sat Feb 04 17:43:19 EST 2017,dark,18:00
+light,47.666668,Sat Feb 04 17:51:59 EST 2017,less bright,18:00
+light,65.0,Sat Feb 04 17:57:59 EST 2017,less bright,18:00
+light,60.0,Sat Feb 04 18:01:48 EST 2017,less bright,18:00
+light,16.333334,Sat Feb 04 18:08:07 EST 2017,less bright,18:00
+light,21.333334,Sat Feb 04 18:14:16 EST 2017,less bright,18:00
+light,2.0,Sat Feb 04 18:20:56 EST 2017,dark,18:00
+light,2.0,Sat Feb 04 18:26:55 EST 2017,dark,18:00
+light,2.0,Sat Feb 04 18:34:22 EST 2017,dark,19:00
+light,21.333334,Sat Feb 04 18:41:02 EST 2017,less bright,19:00
+light,10.666667,Sat Feb 04 18:47:51 EST 2017,less bright,19:00
+light,20.666666,Sat Feb 04 18:53:37 EST 2017,less bright,19:00
+light,32.666668,Sat Feb 04 18:59:06 EST 2017,less bright,19:00
+light,55.0,Sat Feb 04 19:14:16 EST 2017,less bright,19:00
+light,2.0,Sat Feb 04 19:14:16 EST 2017,dark,19:00
+light,11.333333,Sat Feb 04 19:18:55 EST 2017,less bright,19:00
+light,11.333333,Sat Feb 04 19:22:37 EST 2017,less bright,19:00
+light,2.0,Sat Feb 04 19:25:40 EST 2017,dark,19:00
+light,2.0,Sat Feb 04 19:27:45 EST 2017,dark,19:00
+light,2.0,Sat Feb 04 19:30:05 EST 2017,dark,19:00
+light,2.0,Sat Feb 04 19:35:27 EST 2017,dark,20:00
+light,2.0,Sat Feb 04 19:39:21 EST 2017,dark,20:00
+light,2.0,Sat Feb 04 19:42:21 EST 2017,dark,20:00
+light,2.0,Sat Feb 04 19:47:23 EST 2017,dark,20:00
+light,2.0,Sat Feb 04 19:53:59 EST 2017,dark,20:00
+light,2.0,Sat Feb 04 19:58:12 EST 2017,dark,20:00
+light,2.0,Sat Feb 04 20:02:49 EST 2017,dark,20:00
+light,2.0,Sat Feb 04 20:08:41 EST 2017,dark,20:00
+light,2.0,Sat Feb 04 20:11:43 EST 2017,dark,20:00
+light,2.0,Sat Feb 04 20:16:42 EST 2017,dark,20:00
+light,2.0,Sat Feb 04 20:21:18 EST 2017,dark,20:00
+light,2.0,Sat Feb 04 20:27:15 EST 2017,dark,20:00
+light,2.0,Sat Feb 04 20:33:01 EST 2017,dark,21:00
+light,6.3333335,Sat Feb 04 20:36:26 EST 2017,less bright,21:00
+light,72.0,Sat Feb 04 20:39:34 EST 2017,less bright,21:00
+light,15.666667,Sat Feb 04 20:44:42 EST 2017,less bright,21:00
+light,2.0,Sat Feb 04 20:50:05 EST 2017,dark,21:00
+light,2.0,Sat Feb 04 20:54:54 EST 2017,dark,21:00
+light,2.0,Sat Feb 04 21:00:02 EST 2017,dark,21:00
+light,2.0,Sat Feb 04 21:05:33 EST 2017,dark,21:00
+light,6.3333335,Sat Feb 04 21:10:22 EST 2017,less bright,21:00
+light,28.333334,Sat Feb 04 21:14:46 EST 2017,less bright,21:00
+light,23.333334,Sat Feb 04 21:19:11 EST 2017,less bright,21:00
+light,10.666667,Sat Feb 04 21:22:18 EST 2017,less bright,21:00
+light,6.3333335,Sat Feb 04 21:24:54 EST 2017,less bright,21:00
+light,6.3333335,Sat Feb 04 21:27:36 EST 2017,less bright,21:00
+light,2.0,Sat Feb 04 21:30:03 EST 2017,dark,21:00
+light,2.0,Sat Feb 04 21:36:44 EST 2017,dark,22:00
+light,2.0,Sat Feb 04 21:43:47 EST 2017,dark,22:00
+light,2.0,Sat Feb 04 21:52:19 EST 2017,dark,22:00
+light,2.0,Sat Feb 04 21:59:54 EST 2017,dark,22:00
+light,2.0,Sat Feb 04 22:14:26 EST 2017,dark,22:00
+light,2.0,Sat Feb 04 22:14:26 EST 2017,dark,22:00
+light,2.0,Sat Feb 04 22:44:26 EST 2017,dark,23:00
+light,2.0,Sat Feb 04 23:27:20 EST 2017,dark,23:00
+light,2.0,Sat Feb 04 23:44:51 EST 2017,dark,0:00
+light,2.0,Sat Feb 04 23:55:59 EST 2017,dark,0:00
