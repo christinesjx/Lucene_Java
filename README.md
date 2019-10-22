@@ -9,7 +9,7 @@ There are four classes in this project:
 
 # Comparison Line Chart
 
-![](heartrate.png)
+![](heartRate.png)
 ![](physicalActivity.png)
 ![](ambientLight.png)
 
